@@ -35,7 +35,7 @@ important.
 
 **Exercise** This website implements a short test of working memory: 
 [https://miku.github.io/activememory/](https://miku.github.io/activememory/). 
-Take the test and if you are comfortable, share your answer in the 
+Take the test and, if you are comfortable, share your answer in the 
 collaborative document.
 
 ## Strategies for memory management
@@ -135,7 +135,10 @@ questions can play this role. A few more that you may wish to consider are:
 + Faded examples: worked examples with targeted details "faded" out - 
 essentially fill-in-the-blank programming blocks
 + Parson's Problems: out-of-order code selection & sorting challenges
-+ Labelling diagrams or flow charts
++ Labeling diagrams or flow charts
+
+**TODO**: Add examples, perhaps in the form of images, for each of these 
+types of examples.
 
 Beware assessments that are too open-ended, as these are very likely to induce 
 cognitive overload in novices. You may have experienced some overload already 
@@ -146,7 +149,9 @@ question and get a room filled with silence, you may need an icebreaker, you
 may need to re-teach... or you may only need a more narrowly focused question.
 
 **Exercise**
-**TODO**: An exercise about congitive load or attention management
+**TODO**: An exercise about congitive load or attention management. Maybe ask 
+for one of the exercises (Faded example, Parson's problem, labeling diagram) on 
+their concept map?
 
 **Feedback** Doing one-up-down? Have Google form for anonymous feedback.
 

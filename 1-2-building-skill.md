@@ -239,7 +239,7 @@ We will discuss how being an expert can make it more difficult to teach
 novices, and some tools to help instructors identify and overcome these 
 difficulties.
 
-**Exercise** What is something that you are an expert in? How does your 
+**Exercise** What is something that _you_ are an expert in? How does your 
 experience when you are acting as an expert differ from when you are not an 
 expert?
 
