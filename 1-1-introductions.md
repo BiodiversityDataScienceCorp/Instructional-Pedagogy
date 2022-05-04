@@ -35,7 +35,7 @@ incorporate data science or data literacy into your classroom?
 
 ***
 
-Materials based on (Carpentries Instructor Training)[https://carpentries.github.io/instructor-training/].
+Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
 
 <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
 
