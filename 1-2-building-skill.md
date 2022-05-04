@@ -8,6 +8,7 @@ intermediate, expert)
 + Understand the limitations of knowledge in the absence of a functional mental 
 model
 + Create a formative assessment to diagnose a broken mental model
++ Apply strategies to meet students where they are
 
 ## Overview
 
@@ -227,6 +228,53 @@ teaching. Learning consists of more than "just" adding information to mental
 models; creating linkages between concepts and facts is at least as important. 
 Making sure to teach at a pace that allows reflection and reinforcement of 
 those linkages it critical for students' progress.
+
+## Expertise
+
+We talked about the transition from novice to intermediate through formation of 
+a functional mental model. We now shift our attention to experts. This means 
+you.
+
+We will discuss how being an expert can make it more difficult to teach 
+novices, and some tools to help instructors identify and overcome these 
+difficulties.
+
+**Exercise** What is something that you are an expert in? How does your 
+experience when you are acting as an expert differ from when you are not an 
+expert?
+
+Because your students' mental models will likely be less densely connected than 
+your own, a conclusion that seems obvious to you will not seem that way to your 
+students. It is important to explain what you are doing step-by-step, and how 
+each step leads to the next one.
+
+## Language
+
+We want to motivate students and we will talk more about motivation in a later 
+session. But here, we will take a moment to recognize one ineffective strategy 
+often deployed by experts who want learners to believe that a task is as easy 
+as they think it is. This often manifests in using the word "just" in 
+explanations, as in, "Look, it is easy, you just... (wave magic wand with 
+undecipherable incantations)" This language gives learners the very clear 
+signal that the person helping them thinks their problem is trivial and that 
+there must be something wrong with them if they do not experience it that way.
+
+With practice, we can change the way we speak to avoid dismissive language and 
+replace it with more positive and motivating word choices.
+
+### Any Questions?
+
+Another well-intended move that can go wrong is the call for questions. An 
+instructor may accidentally dismiss student confusion by asking for questions 
+in a way that reveals that they do not actually expect that anyone will have 
+them. Asking, "Does anyone have any questions?" or "Do you all understand?" 
+implies that most people will not; the shorter the wait time before moving on, 
+the more this implication is magnified. Instead, consider asking "What 
+questions do you have?" and leaving a healthy pause for consideration. This 
+firmly establishes an expectation that people will, indeed, have questions, and 
+should challenge themselves to formulate them.
+
+***
 
 Materials based on (Carpentries Instructor Training)[https://carpentries.github.io/instructor-training/].
 
