@@ -248,20 +248,6 @@ your own, a conclusion that seems obvious to you will not seem that way to your
 students. It is important to explain what you are doing step-by-step, and how 
 each step leads to the next one.
 
-## Language
-
-We want to motivate students and we will talk more about motivation in a later 
-session. But here, we will take a moment to recognize one ineffective strategy 
-often deployed by experts who want learners to believe that a task is as easy 
-as they think it is. This often manifests in using the word "just" in 
-explanations, as in, "Look, it is easy, you just... (wave magic wand with 
-undecipherable incantations)" This language gives learners the very clear 
-signal that the person helping them thinks their problem is trivial and that 
-there must be something wrong with them if they do not experience it that way.
-
-With practice, we can change the way we speak to avoid dismissive language and 
-replace it with more positive and motivating word choices.
-
 ### Any Questions?
 
 Another well-intended move that can go wrong is the call for questions. An 
