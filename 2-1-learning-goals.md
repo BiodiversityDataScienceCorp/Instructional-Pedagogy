@@ -60,11 +60,55 @@ they are, we also need to be mindful about helping them to "grow a level,"
 helping them to recognize when they have achieved that growth, and guiding them 
 to look ahead to where we might not be able to take them.
 
-![Image credit: Vanderbilt University Center for Teaching](https://github.com/carpentries/instructor-training/blob/gh-pages/fig/Blooms.png)
+![Image credit: Vanderbilt University Center for Teaching](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/Blooms.png)
 
-**TODO**: There needs to be more explanations of learning objectives here. 
-Maybe pull out one or two examples from the examples pasted below and highlight
-good (ecology data viz) and bad (spreadsheet format data?) examples.
+When thinking about learning objectives for our purposes, we are going to focus 
+on a fairly atomic level. That is, thinking about objectives for a class 
+session or two. These will necessarily be different from objectives you would 
+write for an entire course. I find it easiest to look at examples of learning 
+objectives. Here are two lists of objectives. The first is from a 
+[lesson on data visualization in R](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html).
+
++ Produce scatter plots, boxplots, and time series plots using ggplot.
++ Set universal plot settings.
++ Describe what faceting is and apply faceting in ggplot.
++ Modify the aesthetics of an existing ggplot plot (including axis labels and 
+  color).
++ Build complex and customized plots from data in a data frame.
+
+One important thing to note is that they are all starting with a verb, as they 
+describe something a student should be able to accomplish after the lesson. 
+
+**Exercise** Evaluate Learning Objectives
+**TODO**: Could have them place each of the objectives in the Bloom's taxonomy 
+pyramid (only one uses a verb that is actually in the pyramid)
+
+We also want to make sure that learning objectives are something we can 
+actually assess. Sometimes we might write vague learning objectives that we 
+have a difficult time telling if students can do the thing we expect them to. 
+For example, the following learning objective comes from a lesson on using 
+spreadsheets:
+
++ Understand how to organize data so computers can make the best use of the 
+data
+
+While this understanding _is_ important, it may not be immediately obvious how 
+to tell if a student learned the material. In contrast, specific objectives 
+will be easier to write assessments for:
+
++ Recognize and resolve common spreadsheet formatting problems.
++ Describe the importance of metadata.
++ Identify metadata that should be included with a dataset.
++ Apply consistent date formats
++ Use formulas to separate dates into their component values (e.g. Month, Day, 
+  Year).
+
+For the first point, we could use a formative assessment where, after teaching 
+the relevant content, we ask students to provide a better organization to these 
+data:
+
+![](https://datacarpentry.org/spreadsheets-socialsci/fig/multiple-info.png)
+
 
 **Exercise** Evaluate Learning Objectives
 
@@ -98,8 +142,6 @@ objective?
 How might you be able to help them think ahead to the next level without 
 attempting to get them there during your workshop?
 
-
-(Be sure to include "The Rules" from https://teachtogether.tech/en/index.html)
 
 ## Reflection
 
