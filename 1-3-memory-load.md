@@ -153,6 +153,9 @@ may need to re-teach... or you may only need a more narrowly focused question.
 for one of the exercises (Faded example, Parson's problem, labeling diagram) on 
 their concept map?
 
+**TODO**: Add homework here. Perhaps being prepared to create learning 
+objectives from one of their own classes
+
 **Feedback** Doing one-up-down? Have Google form for anonymous feedback.
 
 ***

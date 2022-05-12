@@ -20,8 +20,6 @@ outcomes.
 
 ## Welcome back exercise?
 
-(Be sure to include "The Rules" from https://teachtogether.tech/en/index.html)
-
 **Exercise** Something reflective on Module 1
 **TODO**: Write something to engage folks about skill, memory, or learning.
 
@@ -103,30 +101,28 @@ will be easier to write assessments for:
 + Use formulas to separate dates into their component values (e.g. Month, Day, 
   Year).
 
-For the first point, we could use a formative assessment where, after teaching 
-the relevant content, we ask students to provide a better organization to these 
-data:
+For example, after teaching content to address the first point (common 
+spreadsheet formatting problems), we could ask students to provide a better 
+organization to these data:
 
 ![](https://datacarpentry.org/spreadsheets-socialsci/fig/multiple-info.png)
 
 
 **Exercise** Evaluate Learning Objectives
+**TODO**: Add this exercise. Maybe a good point for them to write their own 
+learning objectives.
+
+<!--cut start-->
 
 Some lessons with Learning objectives that could be useful. 
 
 https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html
-
 https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
-
 https://datacarpentry.org/r-intro-geospatial/04-data-structures-part2/index.html
-
 https://datacarpentry.org/spreadsheets-socialsci/01-format-data/index.html
-
 https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html
 
-
 Paper about good spreadsheets https://doi.org/10.1080/00031305.2017.1375989
-
 
 Your instructor has posted links to a handful of current Carpentries lessons in 
 the Etherpad. Select one learning objective from one of those lessons, then 
@@ -142,6 +138,7 @@ objective?
 How might you be able to help them think ahead to the next level without 
 attempting to get them there during your workshop?
 
+<!--cut end-->
 
 ## Reflection
 
