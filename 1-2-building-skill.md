@@ -191,6 +191,7 @@ The correct answer is (a) 42, but the other answers provide information.
 
 **Exercise** Choose one wrong answer and write in the collaborative document 
 what misconception is associated with that wrong answer.
+
 **Solution**
 
 + If the student answers 32, they forgot to carry the 1 to the tens place.
@@ -259,6 +260,8 @@ the more this implication is magnified. Instead, consider asking "What
 questions do you have?" and leaving a healthy pause for consideration. This 
 firmly establishes an expectation that people will, indeed, have questions, and 
 should challenge themselves to formulate them.
+
+**TODO**: End of day feedback
 
 ***
 

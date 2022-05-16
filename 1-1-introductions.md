@@ -9,6 +9,8 @@
 
 (Instructors will introduce themselves)
 
+### Context
+
 This training is part of the NSF-funded project "Building Capacity in Data 
 Science through Biodiversity, Conservation, and General Education" (Awards 
 [2122967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122967) 
@@ -26,8 +28,8 @@ Now we would like to hear from you.
 
 ### Participants
 
-**Exercise** Add your name to the collaborative document and describe something that has 
-recently brought you joy?
+**Exercise** Add your name to the collaborative document and describe something 
+that has recently brought you joy?
 
 > Some means of assessing experience in incorporating data science or data 
 literacy into the classroom (a bulleted list in the collaborative document that 

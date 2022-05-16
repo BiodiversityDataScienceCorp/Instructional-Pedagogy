@@ -6,6 +6,7 @@
 + Distinguish between desirable and undesirable cognitive load
 + Evaluate cognitive load associated with a learning task
 + Create a formative assessment that maximizes germane cognitive load
++ Describe strategies for teaching students with very different skill levels
 
 ## Overview
 
@@ -152,6 +153,53 @@ may need to re-teach... or you may only need a more narrowly focused question.
 **TODO**: An exercise about congitive load or attention management. Maybe ask 
 for one of the exercises (Faded example, Parson's problem, labeling diagram) on 
 their concept map?
+
+## Managing a diverse classroom
+
+You will most often have students from a variety of backgrounds and with varied 
+technical skill levels in the same classroom. Some may be novices in one 
+technology, but competent or even expert in another. As an instructor, you will 
+need to be attentive to this range in your learners' prior skill level. 
+This idea of "meeting learners where they are" can be tough, but there are 
+strategies to employ to ensure a positive learning experience for all.
+
+**Exercise**: What are some of the challenges you might expect when teaching 
+students with a broad range of expertise? Add your thoughts in the 
+collaborative document.
+
+Here are some strategies to deal with this issue:
++ Be sure that course advertisements communicate its level clearly by 
+describing not only the topics, but also the specific skills and tasks (you can 
+communicate this through your learning objectives, which we will talk about 
+shortly).
++ During class, encourage students to help others when they feel comfortable 
+doing so. Teaching is a great way to level up learning. Note that you may need 
+an icebreaker before most students will take this advice.
++ Do not let advanced students take over the conversation during class, no 
+matter how interesting it may be. This can alienate beginners and consumes 
+precious time. Advanced questions and comments can be politely reserved for 
+office hours.
++ If you have help in the class (teaching assistants, preceptors), these folks 
+should be vigilant for students who are falling behind and intervene early so 
+that they do not become frustrated and give up. Frequent reminders to your 
+students to indicate their progress will support your team in targeting 
+problems in time. We'll talk more about how to assess progress in a bit.
+
+No class can possibly meet all individual training needs. However, it is 
+entirely possible for total beginners and advanced learners to come away happy 
+from the same class. Beginners may not yet feel competent, but they may build a 
+mental model of the domain and develop confidence that they can learn these 
+skills because they have successfully walked through them. Advanced students 
+may enjoy picking up "tips and tricks" or having their own self-taught 
+approaches validated.
+
+**Exercise**: How have you handled situations with different skill levels in 
+your classroom? Are there situations you have yet to "solve"? Put your answers 
+in the collaborative document.
+
+Dealing effectively with different skill levels does take some planning. 
+However, with appropriate advertising and team cohesion on priorities and 
+strategies, your workshop can be a worthwhile experience for everyone.
 
 **TODO**: Add homework here. Perhaps being prepared to create learning 
 objectives from one of their own classes
