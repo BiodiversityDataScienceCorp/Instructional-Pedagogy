@@ -85,8 +85,16 @@ lesson with a concept map can help you not only identify key concepts and
 relationships, but also to notice when you are trying to teach too many things 
 at once.
 
-**Exercise**
-**TODO**: An exercise about memory management
+**Exercise**: Consider the strategies for memory management we just covered 
+(formative assessments, group work, reflection opportunities, and limiting 
+concepts) and either:
+
+1. Provide an example of how you have used one of these strategies in your 
+teaching experience; or
+2. Describe how you might adopt one of these strategies to implement in your 
+_future_ teaching practice
+
+Add your answer to the collaborative document.
 
 ## Attention is a limited resource: Cognitive Load
 
@@ -134,12 +142,32 @@ and help to avoid cognitive overload. Carefully targeted multiple choice
 questions can play this role. A few more that you may wish to consider are:
 
 + Faded examples: worked examples with targeted details "faded" out - 
-essentially fill-in-the-blank programming blocks
-+ Parson's Problems: out-of-order code selection & sorting challenges
-+ Labeling diagrams or flow charts
+essentially fill-in-the-blank programming blocks. e.g. students would fill in 
+the blank a for loop in R:
 
-**TODO**: Add examples, perhaps in the form of images, for each of these 
-types of examples.
+```
+# Print square of i
+for (i in 1:10) {
+  i_squared <- _______
+  cat(i, "^2 = ", i_squared)
+}
+```
+
++ Parson's Problems: out-of-order code selection & sorting challenges. e.g. 
+students would rearrange the steps into the correct order for a differential 
+gene expression workflow:
+
++ Sequence samples
++ Count number of reads per gene
++ Map sequences to genome
++ Identify differentially expressed genes
++ Trim adapters from sequences
+
++ Labeling diagrams or flow charts. For example, you could provide the concepts 
+for the for loop in Python example and ask the students to draw lines between 
+concepts and label the relationships.
+
+![Concepts of a Python for loop](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-concepts.png)
 
 Beware assessments that are too open-ended, as these are very likely to induce 
 cognitive overload in novices. You may have experienced some overload already 
@@ -149,10 +177,12 @@ and synthesize or reason with new information are also risky. If you try out a
 question and get a room filled with silence, you may need an icebreaker, you 
 may need to re-teach... or you may only need a more narrowly focused question.
 
-**Exercise**
-**TODO**: An exercise about congitive load or attention management. Maybe ask 
-for one of the exercises (Faded example, Parson's problem, labeling diagram) on 
-their concept map?
+**Exercise**: Consider a topic you teach or might teach in one of your classes 
+and create an assessment like the ones we described above (multiple choice 
+questions, faded examples, Parson's problems, or diagram labeling). You can 
+build off of the concept map you built previously, or choose a different topic. 
+After creating this assessment, explain how you expect it to reinforce what you 
+taught.
 
 ## Managing a diverse classroom
 
@@ -201,10 +231,15 @@ Dealing effectively with different skill levels does take some planning.
 However, with appropriate advertising and team cohesion on priorities and 
 strategies, your workshop can be a worthwhile experience for everyone.
 
-**TODO**: Add homework here. Perhaps being prepared to create learning 
-objectives from one of their own classes
+**Homework**: Next week we will be focused on the classroom. We would like you 
+to start thinking about topics you have taught or would like to teach that 
+involve hands-on components to them. We will be using those topics to guide 
+some of next week's exercises.
 
-**Feedback** Doing one-up-down? Have Google form for anonymous feedback.
+## Feedback on the day
+
+Please take no more than two minutes to provide feedback on today's session at 
+[https://forms.gle/c1in6o8DdVYHUt3Y6](https://forms.gle/c1in6o8DdVYHUt3Y6).
 
 ***
 

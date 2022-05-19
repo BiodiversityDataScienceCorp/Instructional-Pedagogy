@@ -107,22 +107,53 @@ will be far larger and more complex than that of a novice, including both more
 concepts and more detailed and numerous relationships.
 
 A more general tool that is useful for exploring any network of concepts and 
-relationships is a concept map. A concept map asks you to identify which 
+relationships is a **concept map**. A concept map asks you to identify which 
 concepts are most relevant to a topic at hand and – critically – to identify 
 how they are connected. It can be quite difficult to identify and organize 
 these connections! However, the process of forcing abstract knowledge into a 
 visual format can force you to name connections that you might otherwise have 
 quietly assumed, or illuminate gaps that you may not have been aware of. 
 
-**TODO**: Need a better example of a concept map. Could try a simplified 
-version of the carbon cycle (or photorespiration). Need something than can 
-represent at _broken_ mental model.
+Here is a fairly simple concept map that illustrates the relationships between 
+a car, it's engine, and the wheels. We start a concept map by just adding the 
+concepts, or the parts of the model. In this case, we have three boxes, labeled
+"engine", "car", and "wheels":
+
+![]()
+
+The next part of a concept map would be to draw lines or edges to indicate the 
+relationships among the different components. Here we add a line connecting the 
+engine and the wheels, and the wheels and the car. In the figure we add that 
+the engine spins, turning the wheels, and that the wheels move and propel the 
+car.
+
+![]()
+
+This is a fairly simplified concept map, but it shows how a mental model of how 
+a car works can be represented graphically.
+
+Some additional examples of concept maps are:
+
++ `for` loops in Python [https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-rec.png](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-rec.png)
++ Simplified carbon cycle [https://raw.githubusercontent.com/carpentries/instructor-training/390de72105bad961a0c1beac09be2cc933a84f88/fig/Tree3.svg](https://raw.githubusercontent.com/carpentries/instructor-training/390de72105bad961a0c1beac09be2cc933a84f88/fig/Tree3.svg)
 
 **Exercise** Draw a concept map for a mental model of something you teach. 
-**TODO**: This needs more detail. Folks need guidance on what a mental model 
-and concept map would be.
+Start by identifying the "things" or parts of the model, then draw on the 
+relationships among them. You can do this on paper or with your computer; an 
+online tool for this can be found at 
+[https://excalidraw.com/](https://excalidraw.com/).
 
 ## Misconceptions
+
+Consider a modification of our concept map about the car from above. In this 
+map, a student links the speed at which the engine turns directly to the speed 
+of the car.
+
+![]()
+
+So it turns out this is not necessarily how things work. In fact, a direct 
+coupling of the engine to the wheels would most likely cause a car to violently 
+shake itself apart in a matter of seconds.
 
 **TODO**: Describe the chosen mental model above. Provide example of how it can 
 be broken.
@@ -131,10 +162,16 @@ When mental models break, learning can occur more slowly than you might expect.
 The longer a prior model was in use, and the more extensively it has to be 
 unlearned, the more it can actively interfere with the incorporation of new 
 knowledge. Our students may quickly adapt to this new information if they had 
-never thought much about (_describe model here_) before and were simply trying 
-out an existing mental model on a new situation. However, if they had extensive 
-experience with (_describe model here_), it may take longer to unlearn what 
-they thought they understood about (_reference model here_).
+never thought much about how engine speed relates to car speed before and were 
+simply trying out an existing mental model on a new situation. However, if they 
+had extensive experience with the broken model above, it may take longer to 
+unlearn what they thought they understood about how car speed is regulated.
+
+An updated version of this model would include the transmission, which allows 
+the engine speed to stay relatively constant even when traveling at different 
+speeds.
+
+![]()
 
 Most mental models worth mapping are not so simple. Yet, forcing complex ideas 
 in to this simplified format can be useful when preparing to teach, because it 
@@ -261,7 +298,10 @@ questions do you have?" and leaving a healthy pause for consideration. This
 firmly establishes an expectation that people will, indeed, have questions, and 
 should challenge themselves to formulate them.
 
-**TODO**: End of day feedback
+## Feedback on the day
+
+Please take no more than two minutes to provide feedback on today's session at 
+[https://forms.gle/c1in6o8DdVYHUt3Y6](https://forms.gle/c1in6o8DdVYHUt3Y6).
 
 ***
 

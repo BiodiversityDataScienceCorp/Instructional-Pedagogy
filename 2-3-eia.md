@@ -157,11 +157,20 @@ your teaching practice to create improve equity, inclusivity, or accessibility.
 (Maybe a good breakout room opportunity?) If there is something you _want_ to 
 change, but do not know how, add that to the collaborative document.
 
-**TODO**: Add homework here. Perhaps being prepared to teach from one of their 
-own classes. Can provide some Carpentries materials for those who do not have 
-material for hands-on stuff yet.
+## Preparation for next week
 
-**Feedback** Doing one-up-down? Have Google form for anonymous feedback.
+**Homework**: Next week you will have multiple opportunities to practice 
+teaching for short stretches and receive feedback on your teaching. Between now 
+and the next session, please pick out something that you would like to teach to 
+your fellow participants. This would ideally be some form of hands-on training 
+for a beginner or intermediate audience. If you do not feel you have something 
+you are comfortable teaching, we can provide some lessons from the Carpentries 
+curriculum for you to work with.
+
+## Feedback on the day
+
+Please take no more than two minutes to provide feedback on today's session at 
+[https://forms.gle/c1in6o8DdVYHUt3Y6](https://forms.gle/c1in6o8DdVYHUt3Y6).
 
 ***
 

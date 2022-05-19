@@ -11,6 +11,10 @@ In this session, we will focus on ourselves as teachers. We have talked a lot
 about getting feedback from our students to assess their learning progress, but 
 how can we, as instructors, use feedback to improve our teaching skill?
 
+**Exercise** Last week we covered reverse instructional design and strategies 
+for creating a positive learning environment. What areas would you like more 
+clarification on? What areas are you excited to apply in your classroom?
+
 ## Feedback is hard
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
@@ -93,12 +97,12 @@ you picked out after last session. You won't be doing any "live coding" or
 exercises with your audience (this time).
 3. Get together with your group and have one person teach their segment to the 
 group. Keep a strict time limit of 90 seconds per person (one person should be 
-  responsible for the timekeeping).
-4.  After the first person has finished teaching, share feedback. The person who 
+responsible for the timekeeping).
+4. After the first person has finished teaching, share feedback. The person who 
 performed should start by offering feedback on **themselves**. The timekeeper 
 should help to keep feedback to about 5 minutes per person to ensure everyone 
 has time to perform and discuss.
-5.  Rotate roles and repeat steps 3 & 4
+5. Rotate roles and repeat steps 3 & 4
 6. Return to the main group and briefly summarize the feedback you received in 
 the collaborative document.
 

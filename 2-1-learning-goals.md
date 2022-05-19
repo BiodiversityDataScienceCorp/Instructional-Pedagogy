@@ -21,8 +21,9 @@ outcomes.
 
 ## Welcome back exercise?
 
-**Exercise** Something reflective on Module 1
-**TODO**: Write something to engage folks about skill, memory, or learning.
+**Exercise** Last week we focused on developing skill, the limits of memory, 
+and how learning works. What areas would you like more clarification on? What 
+areas are you excited to apply in your classroom?
 
 ## Reverse instructional design
 
@@ -75,9 +76,15 @@ objectives. Here are two lists of objectives. The first is from a
 One important thing to note is that they are all starting with a verb, as they 
 describe something a student should be able to accomplish after the lesson. 
 
-**Exercise** Evaluate Learning Objectives
-**TODO**: Could have them place each of the objectives in the Bloom's taxonomy 
-pyramid (only one uses a verb that is actually in the pyramid)
+**Exercise** Consider the five learning objectives we saw above:
+
++ Produce scatter plots, boxplots, and time series plots using ggplot.
++ Set universal plot settings.
++ Modify the aesthetics of an existing ggplot plot (including axis labels and 
+  color).
++ Build complex and customized plots from data in a data frame.
+
+Where would you place them in the pyramid of Bloom's taxonomy?
 
 We also want to make sure that learning objectives are something we can 
 actually assess. Sometimes we might write vague learning objectives that we 
@@ -105,37 +112,11 @@ organization to these data:
 
 ![](https://datacarpentry.org/spreadsheets-socialsci/fig/multiple-info.png)
 
-**Exercise** Evaluate Learning Objectives
-**TODO**: Add this exercise. Maybe a good point for them to write their own 
-learning objectives.
-
-<!--cut start-->
-
-Some lessons with Learning objectives that could be useful. 
-
-https://datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/index.html
-https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html
-https://datacarpentry.org/r-intro-geospatial/04-data-structures-part2/index.html
-https://datacarpentry.org/spreadsheets-socialsci/01-format-data/index.html
-https://datacarpentry.org/r-socialsci/03-dplyr-tidyr/index.html
-
-Paper about good spreadsheets https://doi.org/10.1080/00031305.2017.1375989
-
-Your instructor has posted links to a handful of current Carpentries lessons in 
-the Etherpad. Select one learning objective from one of those lessons, then 
-complete the following steps to evaluate it.
-
-+ Identify the learning objective verb. How specifically does this verb 
-describe the desired learner outcome?
-+ Where does this verb fit on Bloom's taxonomy? Do you think this is an 
-appropriate level for your learners?
-+ In your opinion, does the lesson do an effective job of meeting the stated 
-objective?
-+ What would the next level on Bloom's taxonomy look like for your learners? 
-How might you be able to help them think ahead to the next level without 
-attempting to get them there during your workshop?
-
-<!--cut end-->
+**Exercise** Think about a tool (software or otherwise) that you use or teach 
+often. If you were to write a lesson to train students how to use that tool, 
+what are three learning objectives that would help guide the development of 
+your lesson? Write the tool or analysis and your learning objectives in the 
+collaborative document.
 
 ## Checking in
 
@@ -234,10 +215,10 @@ your teaching practice relating to this point.
 9. Every lesson is too short for the teacher and too long for the student.
 10. Nobody will be more excited about the lesson than you are.
 
-## Feedback
+## Feedback on the day
 
-**TODO**: End of day feedback
-
+Please take no more than two minutes to provide feedback on today's session at 
+[https://forms.gle/c1in6o8DdVYHUt3Y6](https://forms.gle/c1in6o8DdVYHUt3Y6).
 
 ***
 

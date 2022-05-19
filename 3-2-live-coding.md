@@ -34,9 +34,11 @@ students with continuous opportunities for practice (every time they type in a
 line of code) and continuous feedback (their code either works or fails with an 
 error message). It is important to keep in mind, however, that feedback is not 
 helpful if you cannot understand it. Many error messages are obscure and not 
-written with novices in mind. Continue to use the strategies for error framing 
-that we learned earlier to make sure this feedback is useful to learners. 
-**TODO**: could tighten up the language at the end here.
+written with novices in mind. With this in mind, if you are doing live coding 
+and make an error, it is an especially good opportunity to explain to your 
+students _how_ you go about addressing the error. It is totally OK to include 
+Googling for the answer as on of your steps (but maybe not the _first_ step you 
+take).
 
 **Exercise**: Watch this first participatory live coding demo video: 
 [https://youtu.be/bXxBeNkKmJE](https://youtu.be/bXxBeNkKmJE) and this second 
@@ -84,10 +86,17 @@ well or you fixed an error is a good start.
 
 ## Summary
 
-**TODO**: Add homework here. Next session folks will have to do live coding, so 
-they need to have their material ready for the three minutes of teaching.
+**Homework**: In the next session you will have opportunities for practicing 
+the hands-on live coding we talked about. Please be prepared to teach a short 
+part (roughly 3-5 minutes) of a hands-on lesson of your choice. This can be the 
+same topic you chose today, or another one. As before, if you do not have 
+materials to teach from, we can provide some lessons from the Carpentries 
+curriculum for you to work with.
 
-**Feedback** Doing one-up-down? Have Google form for anonymous feedback.
+## Feedback on the day
+
+Please take no more than two minutes to provide feedback on today's session at 
+[https://forms.gle/c1in6o8DdVYHUt3Y6](https://forms.gle/c1in6o8DdVYHUt3Y6).
 
 ***
 
