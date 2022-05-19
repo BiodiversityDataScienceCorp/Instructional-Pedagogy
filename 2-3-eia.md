@@ -3,7 +3,7 @@
 ## Objectives
 
 + Identify instructional strategies that are consistent with universal design
-+ Recognize systemic factors that can distract and demotivate learners
++ Recognize systemic factors that can distract and demotivate students
 
 ## Overview
 
@@ -71,7 +71,7 @@ to people with strollers and grocery carts.
 
 Universal design places responsibility for accessibility on the course designer 
 rather than on the learner. It states that the most inclusive approach to 
-education is to design instruction with diverse learners in mind from the 
+education is to design instruction with diverse students in mind from the 
 beginning.
 
 It’s easy to be overwhelmed by all the different ways we could make instruction 
@@ -100,7 +100,7 @@ often carry a heavier load due to systemic forces that disproportionately
 impact them. What we can control, in this case, is our own awareness of the 
 challenges these forces present to teaching and learning. As with other 
 demotivation pitfalls, we can also think carefully about the language that we 
-use and how we interact with our learners to avoid reinforcing systemic bias.
+use and how we interact with our students to avoid reinforcing systemic bias.
 
 ### Stereotypes
 
@@ -130,8 +130,8 @@ not be aware of them, even though their perceptions are guided by them.
 When instructors have stereotypes about students, this may lead them to:
 
 + call attention to differences unnecessarily
-+ give more or less attention to certain learners
-+ respond to questions differently for certain learners
++ give more or less attention to certain students
++ respond to questions differently for certain students
 
 When students experience stereotypes about themselves, they may:
 

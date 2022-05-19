@@ -4,7 +4,7 @@
 
 + Identify authentic tasks and explain why teaching them is important
 + Demonstrate strategies for avoiding dismissive language
-+ Develop strategies to avoid demotivating learners
++ Develop strategies to avoid demotivating students
 
 ## Overview
 
@@ -42,7 +42,7 @@ self-fulfilling prophecy.
 
 One way to combat this problem is to begin a lesson with something that is 
 quick to learn and immediately useful. It is particularly important that 
-learners see it as useful in their daily work. This not only motivates them, it 
+students see it as useful in their daily work. This not only motivates them, it 
 also helps build their confidence in us, so that if it takes longer to get to 
 something they find useful in a later topic, they will persist with the lesson.
 
@@ -118,7 +118,7 @@ encountered precocial students (or faculty), who want to show how smart they
 are by tripping up the instructor. Nonetheless, be aware of where your limits 
 are and don't hesistate to use the "I'll follow up on that" response.
 + Use the J word ("just") or other demotivating language. These signal to the 
-learner that the instructor thinks their problem is trivial and by extension 
+student that the instructor thinks their problem is trivial and by extension 
 that they therefore must be deficient if they are not able to figure it out. It 
 is tempting to use this language in an effort to convince students that a task 
 is as easy to learn as it is for _you_ to accomplish. Saying something like 
@@ -126,9 +126,9 @@ is as easy to learn as it is for _you_ to accomplish. Saying something like
 commit, push, submit a PR and boom, you're done." in an introduction to GitHub
 is likely going to have the opposite effect from what was intended. 
 + Take over the student's keyboard. It is rarely a good idea to type anything 
-for your students. Doing so can be demotivating for the learner (as it implies 
+for your students. Doing so can be demotivating for the student (as it implies 
 you don't think they can do it themselves or that you don't want to wait for 
-them). It also wastes a valuable opportunity for your learner to develop muscle 
+them). It also wastes a valuable opportunity for your student to develop muscle 
 memory and other skills that are essential for independent work.
 + Express surprise at unawareness. Saying things like "I can't believe you 
 don't know X" or "You've never heard of Y?" signals to the student that they do 

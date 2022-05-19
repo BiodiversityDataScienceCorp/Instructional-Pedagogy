@@ -74,7 +74,7 @@ memories. Like formative assessment, asking students for feedback can double as
 both a source of information and an effective consolidating prompt, as 
 providing feedback demands some reflection on what has been learned. We will 
 talk more about methods for this in the next section. You may also wish to 
-pause and allow learners to write summary notes for themselves or otherwise ask 
+pause and allow students to write summary notes for themselves or otherwise ask 
 them to review what they have learned at various points in the class session.
 
 In the same vein as "going slowly," it is important to **limit the number of 
@@ -189,8 +189,8 @@ taught.
 You will most often have students from a variety of backgrounds and with varied 
 technical skill levels in the same classroom. Some may be novices in one 
 technology, but competent or even expert in another. As an instructor, you will 
-need to be attentive to this range in your learners' prior skill level. 
-This idea of "meeting learners where they are" can be tough, but there are 
+need to be attentive to this range in your students' prior skill level. 
+This idea of "meeting students where they are" can be tough, but there are 
 strategies to employ to ensure a positive learning experience for all.
 
 **Exercise**: What are some of the challenges you might expect when teaching 
@@ -216,7 +216,7 @@ students to indicate their progress will support your team in targeting
 problems in time. We'll talk more about how to assess progress in a bit.
 
 No class can possibly meet all individual training needs. However, it is 
-entirely possible for total beginners and advanced learners to come away happy 
+entirely possible for total beginners and advanced students to come away happy 
 from the same class. Beginners may not yet feel competent, but they may build a 
 mental model of the domain and develop confidence that they can learn these 
 skills because they have successfully walked through them. Advanced students 

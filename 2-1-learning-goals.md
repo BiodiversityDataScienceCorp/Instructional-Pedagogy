@@ -11,7 +11,7 @@
 
 When sitting down to plan a class, I think we have all been in the mindset of 
 diving right into reviewing the content, questioning our understanding, and 
-anticipating questions that learners might have. While it is good to prepare 
+anticipating questions that students might have. While it is good to prepare 
 your content, this approach can take you down extended rabbit-holes in which 
 you anticipate and questions that only an expert (like yourself) would think to 
 ask, and never get around to thinking about how to get your students from one 
@@ -200,7 +200,7 @@ When asking for feedback, we want to provide some structure to guide responses
 Students are more likely to give useful feedback if they feel that their 
 feedback is being taken seriously. Spending a few minutes talking about the 
 feedback you got and being explicit about what changes you are making in light 
-of that feedback will encourage learners to continue to give informative 
+of that feedback will encourage students to continue to give informative 
 feedback throughout the course.
 
 ## Reflection
