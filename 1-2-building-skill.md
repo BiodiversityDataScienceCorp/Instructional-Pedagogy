@@ -119,7 +119,7 @@ a car, it's engine, and the wheels. We start a concept map by just adding the
 concepts, or the parts of the model. In this case, we have three boxes, labeled
 "engine", "car", and "wheels":
 
-![]()
+![](img/concept-map-01.png)
 
 The next part of a concept map would be to draw lines or edges to indicate the 
 relationships among the different components. Here we add a line connecting the 
@@ -127,7 +127,7 @@ engine and the wheels, and the wheels and the car. In the figure we add that
 the engine spins, turning the wheels, and that the wheels move and propel the 
 car.
 
-![]()
+![](img/concept-map-02.png)
 
 This is a fairly simplified concept map, but it shows how a mental model of how 
 a car works can be represented graphically.
@@ -149,14 +149,11 @@ Consider a modification of our concept map about the car from above. In this
 map, a student links the speed at which the engine turns directly to the speed 
 of the car.
 
-![]()
+![](img/concept-map-03.png)
 
 So it turns out this is not necessarily how things work. In fact, a direct 
 coupling of the engine to the wheels would most likely cause a car to violently 
 shake itself apart in a matter of seconds.
-
-**TODO**: Describe the chosen mental model above. Provide example of how it can 
-be broken.
 
 When mental models break, learning can occur more slowly than you might expect. 
 The longer a prior model was in use, and the more extensively it has to be 
@@ -171,7 +168,7 @@ An updated version of this model would include the transmission, which allows
 the engine speed to stay relatively constant even when traveling at different 
 speeds.
 
-![]()
+![](img/concept-map-04.png)
 
 Most mental models worth mapping are not so simple. Yet, forcing complex ideas 
 in to this simplified format can be useful when preparing to teach, because it 
