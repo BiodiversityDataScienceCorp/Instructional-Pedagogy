@@ -1,0 +1,58 @@
+/* Styling
+   Menu style based on Collections as Data site
+   https://github.com/collectionsasdata/part2whole */
+
+/* General text */
+body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  color: "black";
+  font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+body {
+  width: 70%;
+}
+
+a {
+  text-decoration: none;
+  color: #0C234B;
+}
+
+/* table, especially for list of lessons */
+th, tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+td {
+  padding: 10px 10px 10px 0px;
+}
+
+/* Exercise formatting */
+div.exercise {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #EFEFEF;
+}
+
+/* For top navigation */
+.menu-item {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  li {
+    display: inline;
+    text-align: center;
+    padding: 10px 20px;
+  }
+  a {
+    float: right;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: black;
+    background-color: #EFEFEF;
+  }
+  a:hover {
+    background-color: #D1D1D1;
+  }
+}

@@ -3,12 +3,7 @@
 + Will want to be consistent with objectives/outcomes. Would be good to have 
 input from others on this.
 + Check header levels
-+ Assign homework at end of each day
 + Be consistent with "collaborative document"
-+ Add "Next" and "Previous" links among lessons
-+ Consider some formatting to make Exercises stand out from other content; 
-could use `div` tags along with a CSS style of the background-color attribute.
-+ Add an index.md page
 
 ## Needs 2022-05-16
 
@@ -30,6 +25,4 @@ could use `div` tags along with a CSS style of the background-color attribute.
     + 3-1
     + 3-2
     + 3-3
-        + Move end feedback stuff to separate section?
-    + 3-4
-        + To be done
+        + Need to wrap up and look ahead to session 2

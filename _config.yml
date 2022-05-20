@@ -1,0 +1,14 @@
+# Jekyll configuration
+title: Data Science Instructional Pedagogy
+description: >- # this means to ignore newlines until "baseurl:"
+  Website with curriculum for summer workshop series in data literacy and data 
+  science instructional pedagogy.
+baseurl: "/" # the subpath of your site, e.g. /blog
+# the base hostname & protocol for site, e.g. http://example.com
+url: " https://biodiversitydatasciencecorp.github.io/Instructional-Pedagogy/"
+
+# Build settings
+theme: minima
+encoding: UTF-8
+locale: en
+markdown: kramdown

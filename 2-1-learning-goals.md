@@ -1,6 +1,11 @@
-# Learning goals
+---
+layout: default
+title: Learning Goals
+---
 
-## Objectives
+# Learning Goals
+
+## Lesson objectives
 
 + Describe the process of reverse instructional design
 + Explain the levels of Bloom's taxonomy
@@ -21,9 +26,13 @@ outcomes.
 
 ## Welcome back exercise?
 
-**Exercise** Last week we focused on developing skill, the limits of memory, 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Last week we focused on developing skill, the limits of memory, 
 and how learning works. What areas would you like more clarification on? What 
 areas are you excited to apply in your classroom?
+</div>
 
 ## Reverse instructional design
 
@@ -76,7 +85,10 @@ objectives. Here are two lists of objectives. The first is from a
 One important thing to note is that they are all starting with a verb, as they 
 describe something a student should be able to accomplish after the lesson. 
 
-**Exercise** Consider the five learning objectives we saw above:
+<div class="exercise" markdown="1">
+**Exercise**
+
+Consider the five learning objectives we saw above:
 
 + Produce scatter plots, boxplots, and time series plots using ggplot.
 + Set universal plot settings.
@@ -85,6 +97,7 @@ describe something a student should be able to accomplish after the lesson.
 + Build complex and customized plots from data in a data frame.
 
 Where would you place them in the pyramid of Bloom's taxonomy?
+</div>
 
 We also want to make sure that learning objectives are something we can 
 actually assess. Sometimes we might write vague learning objectives that we 
@@ -112,11 +125,15 @@ organization to these data:
 
 ![](https://datacarpentry.org/spreadsheets-socialsci/fig/multiple-info.png)
 
-**Exercise** Think about a tool (software or otherwise) that you use or teach 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Think about a tool (software or otherwise) that you use or teach 
 often. If you were to write a lesson to train students how to use that tool, 
 what are three learning objectives that would help guide the development of 
 your lesson? Write the tool or analysis and your learning objectives in the 
 collaborative document.
+</div>
 
 ## Checking in
 
@@ -205,7 +222,10 @@ feedback throughout the course.
 
 ## Reflection
 
-**Exercise** Below is an abbreviated, modified selection of "The Rules" from 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Below is an abbreviated, modified selection of "The Rules" from 
 Greg Wilson's book "[Teaching Tech Together](https://teachtogether.tech/en/index.html)".
 Pick one of these points and provide an example of how you have or would adjust
 your teaching practice relating to this point.
@@ -214,6 +234,7 @@ your teaching practice relating to this point.
 8. No lesson survives first contact with students.
 9. Every lesson is too short for the teacher and too long for the student.
 10. Nobody will be more excited about the lesson than you are.
+</div>
 
 ## Feedback on the day
 
@@ -222,8 +243,6 @@ Please take no more than two minutes to provide feedback on today's session at
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Memory and Cognitive Load](1-3-memory-load.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Motivation and Demotivation](2-2-motivation.md)

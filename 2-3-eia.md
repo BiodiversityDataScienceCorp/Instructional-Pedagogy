@@ -1,6 +1,11 @@
+---
+layout: default
+title: Equity, Inclusion, and Accessibility
+---
+
 # Equity, Inclusion, and Accessibility
 
-## Objectives
+## Lesson objectives
 
 + Identify instructional strategies that are consistent with universal design
 + Recognize systemic factors that can distract and demotivate students
@@ -85,10 +90,14 @@ accessible that are both quick to accomplish and minimal in demands on
 attention: font choices, text size, checking in advance that your room is 
 accessible via an elevator or ramp, etc.
 
-**Exercise**: What is one thing you could do in your classes to improve 
+<div class="exercise" markdown="1">
+**Exercise**
+
+What is one thing you could do in your classes to improve 
 accessibility? What is one thing you would like to do, but you don't know how 
 or are prevented from doing so by external factors? Add your answers to the 
 collaborative document.
+</div>
 
 ## Systemic bias
 
@@ -151,21 +160,29 @@ positive.
 
 ## Reflection
 
-**Exercise**: Considering the actions we discussed to make classes a positive 
-learning environment, what is one thing you could start, stop, or change in 
-your teaching practice to create improve equity, inclusivity, or accessibility. 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Considering the actions we discussed to make classes a positive learning 
+environment, what is one thing you could start, stop, or change in your 
+teaching practice to create improve equity, inclusivity, or accessibility. 
 (Maybe a good breakout room opportunity?) If there is something you _want_ to 
 change, but do not know how, add that to the collaborative document.
+</div>
 
 ## Preparation for next week
 
-**Homework**: Next week you will have multiple opportunities to practice 
+<div class="exercise" markdown="1">
+**Homework**
+
+Next week you will have multiple opportunities to practice 
 teaching for short stretches and receive feedback on your teaching. Between now 
 and the next session, please pick out something that you would like to teach to 
 your fellow participants. This would ideally be some form of hands-on training 
 for a beginner or intermediate audience. If you do not feel you have something 
 you are comfortable teaching, we can provide some lessons from the Carpentries 
 curriculum for you to work with.
+</div>
 
 ## Feedback on the day
 
@@ -174,8 +191,6 @@ Please take no more than two minutes to provide feedback on today's session at
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Motivation and Demotivation](2-2-motivation.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Building Skill with Feedback](3-1-feedback.md)

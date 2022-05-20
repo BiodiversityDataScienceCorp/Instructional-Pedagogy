@@ -1,6 +1,11 @@
-# Building skill with practice
+---
+layout: default
+title: Building Teaching Skill with Practice
+---
 
-## Objectives
+# Building Teaching Skill with Practice
+
+## Lesson objectives
 
 + Demonstrate participatory live (coding) instruction
 + Use feedback to improve instruction
@@ -16,7 +21,10 @@ teach based on the feedback of others.
 
 ## Round One
 
-**Exercise**: Now it's your turn for participatory live coding
+<div class="exercise" markdown="1">
+**Exercise**
+
+Now it's your turn for participatory live coding
 
 1. Split into groups of three.
 2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
@@ -31,12 +39,16 @@ discussion to about 1 minute per person; this may leave some time at the end
 for general discussion. The note-taker should record feedback in the 
 collaborative document.
 5. Trade off roles.
+</div>
 
 **Break here**
 
 ## Round Two
 
-**Exercise**: Return to your groups and repeat the previous live coding 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Return to your groups and repeat the previous live coding 
 exercise, re-teaching the same content as before. This time, the presenter 
 should incorporate changes based on feedback received, and everyone should 
 try to "level up" their feedback using the rubric for teaching demos.
@@ -44,6 +56,7 @@ try to "level up" their feedback using the rubric for teaching demos.
 When you are finished, add some thoughts on this process to the collaborative 
 document: What did you change? Did it work better or worse with the change? How 
 might you do it if you were to teach it again?
+</div>
 
 ## Summary
 
@@ -51,12 +64,6 @@ might you do it if you were to teach it again?
 
 ## Feedback on Session 1
 
-
-
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
-
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Previous lesson:  [The Art of Live Coding](3-2-live-coding.md)

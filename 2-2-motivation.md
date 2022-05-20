@@ -1,6 +1,11 @@
-# Motivation & Demotivation
+---
+layout: default
+title: Motivation and Demotivation
+---
 
-## Objectives
+# Motivation and Demotivation
+
+## Lesson objectives
 
 + Identify authentic tasks and explain why teaching them is important
 + Demonstrate strategies for avoiding dismissive language
@@ -25,9 +30,13 @@ We are going to talk about several ways that students can be motivated (or
 demotivated!) by instructional content and approaches, and provides practice 
 opportunities for you to become confident in motivating your students.
 
-**Exercise**: Think back to courses you have taken and consider things that the 
-instructor has said or done that you found motivating. Share your example in 
-the collaborative document.
+<div class="exercise" markdown="1">
+**Exercise**
+
+Think back to courses you have taken and consider things that the instructor 
+has said or done that you found motivating. Share your example in the 
+collaborative document.
+</div>
 
 ## Motivation
 
@@ -91,9 +100,13 @@ to share their own uncertainties.
 
 ## Demotivation
 
-**Exercise**: Think back to courses you have taken or taught and consider 
-things that the instructor has said or done that was demotivating. Share your 
-example in the collaborative document.
+<div class="exercise" markdown="1">
+**Exercise**
+
+Think back to courses you have taken or taught and consider things that the 
+instructor (this might be you!) has said or done that was demotivating. Share 
+your example in the collaborative document.
+</div>
 
 ### First, Do No Harm!
 
@@ -146,16 +159,18 @@ types of comments takes practice, but is well worth the effort.
 
 ## Reflection
 
-**Exercise**: Considering the actions we discussed to make classes a positive 
-learning environment, what is one thing you could start, stop, or change in 
-your teaching practice to create a more positive learning environment. (Maybe 
-a good breakout room opportunity?) If there is something you _want_ to change, 
-but do not know how, add that to the collaborative document.
+<div class="exercise" markdown="1">
+**Exercise**
+
+Considering the actions we discussed to make classes a positive learning 
+environment, what is one thing you could start, stop, or change in your 
+teaching practice to create a more positive learning environment. (Maybe a good 
+breakout room opportunity?) If there is something you _want_ to change, but do 
+not know how, add that to the collaborative document.
+</div>
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Learning Goals](2-1-learning-goals.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Equity, Inclusion, and Accessibility](2-3-eia.md)

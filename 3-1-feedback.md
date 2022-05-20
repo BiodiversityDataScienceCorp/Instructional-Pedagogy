@@ -1,6 +1,11 @@
-# Building skill with feedback
+---
+layout: default
+title: Building Skill with Feedback
+---
 
-## Objectives
+# Building Skill with Feedback
+
+## Lesson objectives
 
 + Give thoughtful and useful feedback
 + Incorporate feedback to improve your instruction
@@ -11,9 +16,13 @@ In this session, we will focus on ourselves as teachers. We have talked a lot
 about getting feedback from our students to assess their learning progress, but 
 how can we, as instructors, use feedback to improve our teaching skill?
 
-**Exercise** Last week we covered reverse instructional design and strategies 
-for creating a positive learning environment. What areas would you like more 
-clarification on? What areas are you excited to apply in your classroom?
+<div class="exercise" markdown="1">
+**Exercise**
+
+Last week we covered reverse instructional design and strategies for creating a 
+positive learning environment. What areas would you like more clarification on? 
+What areas are you excited to apply in your classroom?
+</div>
 
 ## Feedback is hard
 
@@ -75,18 +84,25 @@ to remind yourself:
 
 We will start by observing an example of teaching and providing some feedback.
 
-**Exercise**: Watch this example teaching video and then give feedback on it 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Watch this example teaching video and then give feedback on it 
 [https://www.youtube.com/watch?v=-ApVt04rB4U](https://www.youtube.com/watch?v=-ApVt04rB4U). 
 Put your feedback in the collaborative document. Organize your feedback along 
 two axes: positive vs. opportunities for growth (sometimes called "negative") 
 and content (what was said) vs. presentation (how it was said).
+</div>
 
 ### Receive feedback
 
 Now that you have had some practice observing teaching and giving feedback, let 
 us practice with each other.
 
-**Exercise**: The prep time for this exercise is intentionally short - the 
+<div class="exercise" markdown="1">
+**Exercise**
+
+The prep time for this exercise is intentionally short - the 
 point is to practice giving and receiving feedback, not to create a perfect 
 presentation. Imperfect presentations will give you more to work with!
 
@@ -105,14 +121,19 @@ has time to perform and discuss.
 5. Rotate roles and repeat steps 3 & 4
 6. Return to the main group and briefly summarize the feedback you received in 
 the collaborative document.
+</div>
 
 ### Use feedback
 
-**Exercise**: Look back at the feedback you received on your teaching. How do 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Look back at the feedback you received on your teaching. How do 
 you feel about this feedback? Is it fair and reasonable? Do you agree with it?
 
 Identify at least one specific change you will make to your teaching based on 
 this feedback. Describe your change in the collaborative document.
+</div>
 
 ## Summary
 
@@ -123,8 +144,6 @@ practice and feedback, your skills are going to improve.
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Equity, Inclusion, and Accessibility](2-3-eia.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [The Art of Live Coding](3-2-live-coding.md)

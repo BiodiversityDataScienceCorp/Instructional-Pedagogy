@@ -1,6 +1,11 @@
-# Building skill with practice
+---
+layout: default
+title: Building Skill with Practice
+---
 
-## Objectives
+# Building Skill with Practice
+
+## Lesson objectives
 
 + Compare and contrast the three stages of skill acquisition (novice, 
 intermediate, expert)
@@ -67,10 +72,14 @@ ordinary.
     them in complex workflows. When presented with a problem, immediately sees 
     how these skills can be used to solve the problem.
 
-**Exercise** In the collaborative document, add the name of someone you think 
+<div class="exercise" markdown="1">
+**Exercise**
+
+In the collaborative document, add the name of someone you think 
 of as an expert. They don't have to be in your field, just someone who as 
 acquired enough skill to qualify as an expert as we just defined. After their 
 name, explain _why_ they are an expert.
+</div>
 
 Note that how a person _feels_ about their skill level is not included in these 
 definitions! You may or may not consider yourself an expert in a particular 
@@ -119,7 +128,7 @@ a car, it's engine, and the wheels. We start a concept map by just adding the
 concepts, or the parts of the model. In this case, we have three boxes, labeled
 "engine", "car", and "wheels":
 
-![](img/concept-map-01.png)
+![](assets/img/concept-map-01.png)
 
 The next part of a concept map would be to draw lines or edges to indicate the 
 relationships among the different components. Here we add a line connecting the 
@@ -127,7 +136,7 @@ engine and the wheels, and the wheels and the car. In the figure we add that
 the engine spins, turning the wheels, and that the wheels move and propel the 
 car.
 
-![](img/concept-map-02.png)
+![](assets/img/concept-map-02.png)
 
 This is a fairly simplified concept map, but it shows how a mental model of how 
 a car works can be represented graphically.
@@ -137,11 +146,15 @@ Some additional examples of concept maps are:
 + `for` loops in Python [https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-rec.png](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-rec.png)
 + Simplified carbon cycle [https://raw.githubusercontent.com/carpentries/instructor-training/390de72105bad961a0c1beac09be2cc933a84f88/fig/Tree3.svg](https://raw.githubusercontent.com/carpentries/instructor-training/390de72105bad961a0c1beac09be2cc933a84f88/fig/Tree3.svg)
 
-**Exercise** Draw a concept map for a mental model of something you teach. 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Draw a concept map for a mental model of something you teach. 
 Start by identifying the "things" or parts of the model, then draw on the 
 relationships among them. You can do this on paper or with your computer; an 
 online tool for this can be found at 
 [https://excalidraw.com/](https://excalidraw.com/).
+</div>
 
 ## Misconceptions
 
@@ -149,7 +162,7 @@ Consider a modification of our concept map about the car from above. In this
 map, a student links the speed at which the engine turns directly to the speed 
 of the car.
 
-![](img/concept-map-03.png)
+![](assets/img/concept-map-03.png)
 
 So it turns out this is not necessarily how things work. In fact, a direct 
 coupling of the engine to the wheels would most likely cause a car to violently 
@@ -168,15 +181,19 @@ An updated version of this model would include the transmission, which allows
 the engine speed to stay relatively constant even when traveling at different 
 speeds.
 
-![](img/concept-map-04.png)
+![](assets/img/concept-map-04.png)
 
 Most mental models worth mapping are not so simple. Yet, forcing complex ideas 
 in to this simplified format can be useful when preparing to teach, because it 
 forces you to be explicit about exactly what concepts are at the heart of your 
 topic, and to name relationships between them.
 
-**Exercise** Count the number of things in your concept map (lines and items) 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Count the number of things in your concept map (lines and items) 
 and add that number to the collaborative document.
+</div>
 
 ## Formative assessments
 
@@ -223,7 +240,10 @@ d) 33
 
 The correct answer is (a) 42, but the other answers provide information.
 
-**Exercise** Choose one wrong answer and write in the collaborative document 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Choose one wrong answer and write in the collaborative document 
 what misconception is associated with that wrong answer.
 
 **Solution**
@@ -235,6 +255,7 @@ next column. In other words, they are treating each column of numbers as
 unconnected to its neighbors.
 + If they answer 33 then they know they have to carry the 1, but are carrying 
 it back into the same column it came from.
+</div>
 
 Each of these incorrect answers has diagnostic power Each answer looks like it 
 could be right. Silly answers like "a fish!" may offer therapeutic comedy but 
@@ -243,8 +264,12 @@ do not provide insight; nor do answers that are wrong in random ways.
 figure out precisely what misconceptions students have adopted when they 
 select that choice.
 
-**Exercise** Consider your concept map and write a multiple choice question to 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Consider your concept map and write a multiple choice question to 
 identify points where the mental model represented might be broken.
+</div>
 
 ## Going slow
 
@@ -274,9 +299,13 @@ We will discuss how being an expert can make it more difficult to teach
 novices, and some tools to help instructors identify and overcome these 
 difficulties.
 
-**Exercise** What is something that _you_ are an expert in? How does your 
+<div class="exercise" markdown="1">
+**Exercise**
+
+What is something that _you_ are an expert in? How does your 
 experience when you are acting as an expert differ from when you are not an 
 expert?
+</div>
 
 Because your students' mental models will likely be less densely connected than 
 your own, a conclusion that seems obvious to you will not seem that way to your 
@@ -302,8 +331,6 @@ Please take no more than two minutes to provide feedback on today's session at
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Introductions and Expectations](1-1-introductions.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Memory and Cognitive Load](1-3-memory-load.md)

@@ -1,6 +1,11 @@
-# Building skill with feedback
+---
+layout: default
+title: The Art of Live Coding
+---
 
-## Objectives
+# The Art of Live Coding
+
+## Lesson objectives
 
 + Explain the advantages and limitations of participatory live (coding) 
 instruction
@@ -24,10 +29,14 @@ you. We refer to the practice of having the instructor live code and the
 students code along as "participatory live coding" or, less formally, as 
 "code-along sessions".
 
-**Exercise**: List some advantages and challenges of participatory live coding 
+<div class="exercise" markdown="1">
+**Exercise**
+
+List some advantages and challenges of participatory live coding 
 from both a student's and an instructor's point of view in the collaborative
 document.
 **TODO**: This could be a discussion for breakout rooms, too.
+</div>
 
 Live coding fits well into the model we have been discussing - by providing 
 students with continuous opportunities for practice (every time they type in a 
@@ -40,12 +49,16 @@ students _how_ you go about addressing the error. It is totally OK to include
 Googling for the answer as on of your steps (but maybe not the _first_ step you 
 take).
 
-**Exercise**: Watch this first participatory live coding demo video: 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Watch this first participatory live coding demo video: 
 [https://youtu.be/bXxBeNkKmJE](https://youtu.be/bXxBeNkKmJE) and this second 
 demo video: [https://youtu.be/SkPmwe_WjeY](https://youtu.be/SkPmwe_WjeY) and 
 then summarize your feedback on both in the collaborative document. Use the 2x2 
 (positive/negative, content/presentation) rubric for feedback we discussed 
 earlier.
+</div>
 
 In the videos, the instructor is teaching students how to use loops to repeat 
 as task.
@@ -86,12 +99,16 @@ well or you fixed an error is a good start.
 
 ## Summary
 
-**Homework**: In the next session you will have opportunities for practicing 
+<div class="exercise" markdown="1">
+**Homework**
+
+In the next session you will have opportunities for practicing 
 the hands-on live coding we talked about. Please be prepared to teach a short 
 part (roughly 3-5 minutes) of a hands-on lesson of your choice. This can be the 
 same topic you chose today, or another one. As before, if you do not have 
 materials to teach from, we can provide some lessons from the Carpentries 
 curriculum for you to work with.
+</div>
 
 ## Feedback on the day
 
@@ -100,8 +117,6 @@ Please take no more than two minutes to provide feedback on today's session at
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Building Skill with Feedback](3-1-feedback.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Building Teaching Skill with Practice](3-3-practice.md)

@@ -1,5 +1,12 @@
-# Introductions and expectations
+---
+layout: default
+title: Introductions and Expectations
+---
+
+# Introductions and Expectations
  
+## Lesson objectives
+
 + Identify common ground with some of your fellow workshop participants
 + Describe what will and will not be covered in this workshop
 
@@ -37,16 +44,24 @@ Now we would like to hear from you.
 
 ### Participants
 
-**Exercise** Add your name to the collaborative document and provide a brief 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Add your name to the collaborative document and provide a brief 
 (2-3 sentences) description of your motivation for participating in this summer 
 session.
+</div>
 
-**Exercise** Place an "X" next to the point that best describes your experience 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Place an "X" next to the point that best describes your experience 
 with programming languages
 
 + I have taught using a programming language (e.g. R, Python, Perl)
 + I have used, but not taught, a programming language
 + I have not taught nor used a programming language
+</div>
 
 ## Expectations
 
@@ -97,13 +112,14 @@ session. While we will not be covering things like how to setup a computing
 environment for your students in this first session, we could, should there be 
 interest, include a module on that in the second summer session.
 
-**Exercise** What are your goals for this training? How would you like to 
+<div class="exercise" markdown="1">
+
+**Exercise**
+
+What are your goals for this training? How would you like to 
 incorporate data science or data literacy into your classroom?
+</div>
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
-
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Building Skill with Practice](1-2-building-skill.md)

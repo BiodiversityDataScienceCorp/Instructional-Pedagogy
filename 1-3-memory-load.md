@@ -1,6 +1,11 @@
-# Memory and cognitive load
+---
+layout: default
+title: Memory and Cognitive Load
+---
 
-## Objectives
+# Memory and Cognitive Load
+
+## Lesson objectives
 
 + Remember the quantitative limit of human memory
 + Distinguish between desirable and undesirable cognitive load
@@ -34,10 +39,14 @@ small amounts of information interspersed with practice opportunities. This is
 yet another reason why going slowly and using frequent formative assessment is 
 important.
 
-**Exercise** This website implements a short test of working memory: 
+<div class="exercise" markdown="1">
+**Exercise**
+
+This website implements a short test of working memory: 
 [https://miku.github.io/activememory/](https://miku.github.io/activememory/). 
 Take the test and, if you are comfortable, share your answer in the 
 collaborative document.
+</div>
 
 ## Strategies for memory management
 
@@ -85,7 +94,10 @@ lesson with a concept map can help you not only identify key concepts and
 relationships, but also to notice when you are trying to teach too many things 
 at once.
 
-**Exercise**: Consider the strategies for memory management we just covered 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Consider the strategies for memory management we just covered 
 (formative assessments, group work, reflection opportunities, and limiting 
 concepts) and either:
 
@@ -95,6 +107,7 @@ teaching experience; or
 _future_ teaching practice
 
 Add your answer to the collaborative document.
+</div>
 
 ## Attention is a limited resource: Cognitive Load
 
@@ -111,12 +124,11 @@ efficiency and performance on all of them.
 There are different theories of cognitive load, but for our purposes, we will 
 consider three things that students have in their heads while learning.
 
-    1. Things they have to think about in order to perform a task 
-    ("intrinsic").
-    2. Mental effort required to connect the task to new and old information 
-    ("germane").
-    3. Distractions and other mental effort not directly related to performing 
-    or learning from the task ("extraneous").
+1. Things they have to think about in order to perform a task ("intrinsic")
+2. Mental effort required to connect the task to new and old information 
+("germane")
+3. Distractions and other mental effort not directly related to performing or 
+learning from the task ("extraneous")
 
 Cognitive load is not always a bad thing! There is plenty of evidence that some 
 difficulty is desirable and can increase learning. However, there are limits. 
@@ -141,7 +153,7 @@ There are many different types of exercises that can focus attention narrowly
 and help to avoid cognitive overload. Carefully targeted multiple choice 
 questions can play this role. A few more that you may wish to consider are:
 
-+ Faded examples: worked examples with targeted details "faded" out - 
++ **Faded examples**: worked examples with targeted details "faded" out - 
 essentially fill-in-the-blank programming blocks. e.g. students would fill in 
 the blank a for loop in R:
 
@@ -153,17 +165,15 @@ for (i in 1:10) {
 }
 ```
 
-+ Parson's Problems: out-of-order code selection & sorting challenges. e.g. 
++ **Parson's Problems**: out-of-order code selection & sorting challenges. e.g. 
 students would rearrange the steps into the correct order for a differential 
 gene expression workflow:
-
-+ Sequence samples
-+ Count number of reads per gene
-+ Map sequences to genome
-+ Identify differentially expressed genes
-+ Trim adapters from sequences
-
-+ Labeling diagrams or flow charts. For example, you could provide the concepts 
+    + Sequence samples
+    + Count number of reads per gene
+    + Map sequences to genome
+    + Identify differentially expressed genes
+    + Trim adapters from sequences
++ **Labeling diagrams or flow charts**. For example, you could provide the concepts 
 for the for loop in Python example and ask the students to draw lines between 
 concepts and label the relationships.
 
@@ -177,12 +187,16 @@ and synthesize or reason with new information are also risky. If you try out a
 question and get a room filled with silence, you may need an icebreaker, you 
 may need to re-teach... or you may only need a more narrowly focused question.
 
-**Exercise**: Consider a topic you teach or might teach in one of your classes 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Consider a topic you teach or might teach in one of your classes 
 and create an assessment like the ones we described above (multiple choice 
 questions, faded examples, Parson's problems, or diagram labeling). You can 
 build off of the concept map you built previously, or choose a different topic. 
 After creating this assessment, explain how you expect it to reinforce what you 
 taught.
+</div>
 
 ## Managing a diverse classroom
 
@@ -193,9 +207,12 @@ need to be attentive to this range in your students' prior skill level.
 This idea of "meeting students where they are" can be tough, but there are 
 strategies to employ to ensure a positive learning experience for all.
 
-**Exercise**: What are some of the challenges you might expect when teaching 
-students with a broad range of expertise? Add your thoughts in the 
-collaborative document.
+<div class="exercise" markdown="1">
+**Exercise**
+
+What are some of the challenges you might expect when teaching students with a 
+broad range of expertise? Add your thoughts in the collaborative document.
+</div>
 
 Here are some strategies to deal with this issue:
 + Be sure that course advertisements communicate its level clearly by 
@@ -223,18 +240,26 @@ skills because they have successfully walked through them. Advanced students
 may enjoy picking up "tips and tricks" or having their own self-taught 
 approaches validated.
 
-**Exercise**: How have you handled situations with different skill levels in 
+<div class="exercise" markdown="1">
+**Exercise**
+
+How have you handled situations with different skill levels in 
 your classroom? Are there situations you have yet to "solve"? Put your answers 
 in the collaborative document.
+</div>
 
 Dealing effectively with different skill levels does take some planning. 
 However, with appropriate advertising and team cohesion on priorities and 
 strategies, your workshop can be a worthwhile experience for everyone.
 
-**Homework**: Next week we will be focused on the classroom. We would like you 
+<div class="exercise" markdown="1">
+**Homework**
+
+Next week we will be focused on the classroom. We would like you 
 to start thinking about topics you have taught or would like to teach that 
 involve hands-on components to them. We will be using those topics to guide 
 some of next week's exercises.
+</div>
 
 ## Feedback on the day
 
@@ -243,8 +268,6 @@ Please take no more than two minutes to provide feedback on today's session at
 
 ***
 
-Materials based on [Carpentries Instructor Training](https://carpentries.github.io/instructor-training/).
+Previous lesson: [Building Skill with Practice](1-2-building-skill.md)
 
-<img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
-
-These instructional materials are licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Next lesson: [Learning Goals](2-1-learning-goals.md)
