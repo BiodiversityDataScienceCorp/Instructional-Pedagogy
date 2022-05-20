@@ -5,7 +5,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   science instructional pedagogy.
 baseurl: "/" # the subpath of your site, e.g. /blog
 # the base hostname & protocol for site, e.g. http://example.com
-url: " https://biodiversitydatasciencecorp.github.io/Instructional-Pedagogy/"
+url: "https://biodiversitydatasciencecorp.github.io/Instructional-Pedagogy/"
 
 # Build settings
 theme: minima
