@@ -34,6 +34,14 @@ div.exercise {
   background-color: #EFEFEF;
 }
 
+/* Center-aligned images */
+.center img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+//  width: 50%;
+}
+
 /* For top navigation */
 .menu-item {
   ul {
