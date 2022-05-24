@@ -55,12 +55,8 @@ session.
 <div class="exercise" markdown="1">
 **Exercise**
 
-Place an "X" next to the point that best describes your experience 
-with programming languages
-
-+ I have taught using a programming language (e.g. R, Python, Perl)
-+ I have used, but not taught, a programming language
-+ I have not taught nor used a programming language
+In the collaborative document, provide a brief description of what data science 
+content you are interested in adding or enhancing.
 </div>
 
 ## Expectations
