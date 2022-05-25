@@ -240,11 +240,11 @@ these can target anticipated misconceptions with surgical precision. For
 example, suppose we are teaching children multi-digit addition. A well-designed
 MCQ would be:
 
-Q: what is 27 + 15 ?
-a) 42
-b) 32
-c) 312
-d) 33
+Q: what is 27 + 15 ?  
+a) 42  
+b) 32  
+c) 312  
+d) 33  
 
 The correct answer is (a) 42, but the other answers provide information.
 
@@ -278,6 +278,13 @@ select that choice.
 Consider your concept map and write a multiple choice question to
 identify points where the mental model represented might be broken.
 </div>
+
+You can find more information on designing effective multiple choice questions 
+at:
+
++ [https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/](https://cft.vanderbilt.edu/guides-sub-pages/writing-good-multiple-choice-test-questions/)
++ [https://sites.chem.utoronto.ca/chemistry/dstone/teachers/mcguide2.html](https://sites.chem.utoronto.ca/chemistry/dstone/teachers/mcguide2.html)
++ [https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1468](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1468)
 
 ## Going slow
 
