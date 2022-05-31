@@ -135,6 +135,16 @@ your lesson? Write the tool or analysis and your learning objectives in the
 collaborative document.
 </div>
 
+<div class="exercise" markdown="1">
+**Exercise**
+
+Consider the learning objectives you wrote above and create an assessment like 
+the ones we described last previously (multiple choice questions, faded 
+examples, Parson’s problems, or diagram labeling). After creating this 
+assessment, explain how you expect it to reinforce what you taught and/or 
+identify misconceptions students may have.
+</div>
+
 ## Checking in
 
 When a learning objective has been met, everyone should know about it! You, as 
@@ -154,6 +164,13 @@ Formative assessments can also be used preemptively: if you start a class with
 a question and everyone can answer it correctly, then you can safely skip the 
 part of the lecture in which you were going to explain something that your 
 students already know.
+
+<div class="exercise" markdown="1">
+**Exercise**
+
+How have you "checked in" with your students during class to see where they are 
+in their learning progress?
+</div>
 
 ### Avoiding "Do you understand?"
 
@@ -189,8 +206,8 @@ and "green" because those colors carry certain connotations, but you should
 consider other colors that are easier to differentiate by folks who cannot 
 distinguish between red and green.
 
-In online workshops, Zoom has a green "✓" and red "x" under "reactions" that 
-may be used in place of sticky notes.
+In online workshops, Zoom has a green circle with a check mark and red circle 
+with an "x" under "reactions" that may be used in place of sticky notes.
 
 ### Minute Cards
 
