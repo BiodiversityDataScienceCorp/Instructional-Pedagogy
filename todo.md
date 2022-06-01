@@ -1,11 +1,8 @@
 # Areas to address or fix
 
-+ Will want to be consistent with objectives/outcomes. Would be good to have 
-input from others on this.
 + Check header levels
-+ Be consistent with "collaborative document"
 
-## Needs 2022-05-16
+## Needs 2022-06-01
 
 + Session 1
     + Timing seems a bit off. Is Module 2 really two days (4 hours) worth of 
@@ -17,6 +14,7 @@ input from others on this.
     + 1-3
 + Module 2
     + 2-1
+        + This is a little less than 2 hours worth of material...
     + 2-2
     + 2-3
         + Consider adding more exercises - this episode is pretty light on 
@@ -26,3 +24,17 @@ input from others on this.
     + 3-2
     + 3-3
         + Need to wrap up and look ahead to session 2
++ Module 4
+    + 4-1
+        + Add Overview
+        + Add reflection exercise for previous lesson (practice teaching)
+        + Add exercise: Description of data science module they would like to 
+        deploy in their classroom
+        + Add exercise: List of skills for lesson
+        + Add exercise: Some form of peer-review for skills list
+        + Add exercise: Convert the skills to learning objectives
+        + Add exercise: Write a formative assessment for one learning objective
+        + Add exercise: Peer review of formative assessment
+        + Add exercise: Concept map of final assessment
+        + Add homework: Maybe review types of assessments, as that is what 
+        focus of next session will be?
