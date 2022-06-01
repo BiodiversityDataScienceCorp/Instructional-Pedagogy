@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course-1
 title: Building Teaching Skill with Practice
 ---
 
