@@ -19,9 +19,14 @@ how can we, as instructors, use feedback to improve our teaching skill?
 <div class="exercise" markdown="1">
 **Exercise**
 
-Last week we covered reverse instructional design and strategies for creating a 
-positive learning environment. What areas would you like more clarification on? 
-What areas are you excited to apply in your classroom?
+Last week we talked about motivation in the classroom. Reply to one of the 
+prompts below: 
+
++ When teaching, have you ever had to recover from a bad start where you 
+demotivated your students? What did you do (or what _should_ you have done) to 
+get back to a positive learning environment?
++ Have you been a student in a class where the instructor got off on the wrong 
+foot? What could they have done to get things back on track?
 </div>
 
 ## Feedback is hard
