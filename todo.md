@@ -21,12 +21,20 @@
         interactivity
 + Module 3
     + 3-1
+        + Add trichotomy of module types (data hygiene OpenRefine, data hygiene
+        R/Python, analysis R/Python)
+        + Add overview of platforms / tools (GitHub, Binder)
     + 3-2
     + 3-3
         + Need to wrap up and look ahead to session 2
 + Module 4
     + 4-1
         + Add Overview
+        + Add description of deliverable
+            + A set of learning objectives
+            + Formative assessments for those learning objectives
+            + The data set to use
+            + The delivery mode(s) and/or platforms
         + Add reflection exercise for previous lesson (practice teaching)
         + Add exercise: Description of data science module they would like to 
         deploy in their classroom

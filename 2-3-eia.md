@@ -163,11 +163,10 @@ positive.
 <div class="exercise" markdown="1">
 **Exercise**
 
-Considering the actions we discussed to make classes a positive learning 
-environment, what is one thing you could start, stop, or change in your 
-teaching practice to create improve equity, inclusivity, or accessibility. 
-(Maybe a good breakout room opportunity?) If there is something you _want_ to 
-change, but do not know how, add that to the collaborative document.
+Considering what we covered about equity, inclusivity, and accessibility, what 
+actions could you take to improve equity, inclusivity, or accessibility. If 
+there is something you _want_ to change, but do not know how, add that to the 
+collaborative document. If possible, discuss this as a group.
 </div>
 
 ## Preparation for next week

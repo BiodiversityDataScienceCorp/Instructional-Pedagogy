@@ -137,7 +137,6 @@ for your learning objectives. Also note that your list of skills and learning
 objectives can change as you develop your lesson.
 
 ### Designing assessments
-
 The assessments in a lesson should be a mixture of direct applications and 
 synthesis. A direct application is a straightforward implementation of a 
 concept that learners have just been exposed to, while synthesis requires 
@@ -168,7 +167,9 @@ Draft a final assessment to assess some or all of the learning objectives you
 listed in the previous exercise. This can be more open-ended than some of the 
 formative assessments we have talked about previously, but don't leave your 
 students confused about what they are supposed to do. e.g. "Describe evolution" 
-might be a bit to vague.
+might be a bit to vague. It may not necessarily be something that would take 
+place synchronously (i.e. it could be homework) or during the same class period
+(i.e. group work during the next class).
 </div>
 
 <div class="exercise" markdown="1">

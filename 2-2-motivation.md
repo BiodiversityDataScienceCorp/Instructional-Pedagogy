@@ -164,9 +164,9 @@ types of comments takes practice, but is well worth the effort.
 
 Considering the actions we discussed to make classes a positive learning 
 environment, what is one thing you could start, stop, or change in your 
-teaching practice to create a more positive learning environment. (Maybe a good 
-breakout room opportunity?) If there is something you _want_ to change, but do 
-not know how, add that to the collaborative document.
+teaching practice to create a more positive learning environment. If there is 
+something you _want_ to change, but do not know how, add that to the 
+collaborative document. If possible, discuss this as a group.
 </div>
 
 ***
