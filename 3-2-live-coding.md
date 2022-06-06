@@ -34,8 +34,7 @@ students code along as "participatory live coding" or, less formally, as
 
 List some advantages and challenges of participatory live coding 
 from both a student's and an instructor's point of view in the collaborative
-document.
-**TODO**: This could be a discussion for breakout rooms, too.
+document or discuss with your group.
 </div>
 
 Live coding fits well into the model we have been discussing - by providing 

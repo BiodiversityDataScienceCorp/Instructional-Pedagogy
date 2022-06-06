@@ -29,6 +29,90 @@ get back to a positive learning environment?
 foot? What could they have done to get things back on track?
 </div>
 
+## Aside: tools and platforms for course 2
+
+Before we get into feedback, we would like to take a few minutes to introduce 
+some of the tools that you might be interested in teaching in your classroom, 
+talk about some platforms that can help in delivering of that material, 
+communicate what we expect the deliverables of the next session to be, and get 
+a sense from you about what you are interested in learning during the second 
+three week session. 
+
+### Possible undergraduate topics
+
+First, I want to mention a pair of tools that you might be interested in using 
+for an undergraduate data science module. The first is called OpenRefine, and 
+it is a great resource for data management and data cleaning. It has a 
+graphical user interface and works through a web browser. It is especially good 
+for making data sets that have consistent formatting and helps reduce duplicate 
+entries. I want to highlight just how important a skill this is for 
+undergraduates to learn. Data science is going nowhere without good data 
+management. Some estimates from folks in the trenches estimate as much at 80% 
+of their time is spent cleaning up data.
+
+The second is the R programming language. What I'm going to say about 
+R will apply to Python as well, for the most part. What does R do? R is a 
+command line scripting language that allows you to do reproducible data 
+analysis and data visualization. It is open source and has many packages that 
+are specialized for various fields like ecology, survival analysis, and 
+econometrics to name a few.
+
+### Platforms to help
+
+When delivering data science modules, we often want to share code and create an 
+environment for our students to work in. There is a pair of resources that can 
+be useful to this end. The first is GitHub, which is one of several code 
+sharing websites (there is a lot more to GitHub than this, but for our purposes
+we will focus on the code sharing aspect). The second is Binder, which is a way 
+to provide access to an R or Python session through a web browser. GitHub and 
+Binder work well together, although there are a couple of tricky bits one has 
+to watch out for.
+
+### What you should get out of it
+
+Creating data science modules take time, and we want to be sure everyone 
+understands what we will be able to accomplish in the next three week session.
+After the three weeks, we expect you should have:
+
+1. A set of learning objectives that you want your module to accomplish
+2. A suite of formative assessments you can use to determine how well the 
+learning objectives have been met
+3. A data set you can use for your module
+4. An understanding of the platforms you can use to deliver the module
+
+_After_ we finish, you should then have a rich outline that will serve as the 
+foundation of your module. You'll be able to fill in the narrative and refine 
+the data and assessments as necessary.
+
+### What do you want to learn?
+
+<div class="exercise" markdown="1">
+**Exercise**
+
+Considering the tools and platforms we talked about, as well as the 
+deliverables you can expect to walk away with, we have two questions for you:
+
+1. What type of data science module would you like to have in your class? (place 
+a "1", "2", "3" next to your first, second, and third choices below)
+
++ Data hygiene with OpenRefine (or similar platform)
++ Data hygiene with programming language (e.g. R or Python)
++ Data analysis with programming language (e.g. R or Python)
+
+2. What tools / platforms are you interested in learning about for the purposes 
+of your data science module? (place an "X" next to all that apply)
+
++ OpenRefine
++ R programming
++ Python programming
++ GitHub
++ Binder
++ Other (list below)
+
+Alternatively, fill out the poll at 
+[https://forms.gle/A25pw7mSLBXNaoCu9](https://forms.gle/A25pw7mSLBXNaoCu9).
+</div>
+
 ## Feedback is hard
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
@@ -113,9 +197,9 @@ presentation. Imperfect presentations will give you more to work with!
 
 1. Split into groups of three (your instructor will likely send you to breakout
   rooms, or if you are co-located, will assign groups).
-2. Individually, spend 5 minutes preparing a 90-second introduction to the topic 
-you picked out after last session. You won't be doing any "live coding" or 
-exercises with your audience (this time).
+2. Individually, spend 5 minutes preparing a 90-second introduction to the 
+topic you picked out after last session. You won't be doing any "live coding" 
+or exercises with your audience (this time).
 3. Get together with your group and have one person teach their segment to the 
 group. Keep a strict time limit of 90 seconds per person (one person should be 
 responsible for the timekeeping).
@@ -123,7 +207,7 @@ responsible for the timekeeping).
 performed should start by offering feedback on **themselves**. The timekeeper 
 should help to keep feedback to about 5 minutes per person to ensure everyone 
 has time to perform and discuss.
-5. Rotate roles and repeat steps 3 & 4
+5. Rotate roles and repeat steps 3 & 4.
 6. Return to the main group and briefly summarize the feedback you received in 
 the collaborative document.
 </div>

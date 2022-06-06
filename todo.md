@@ -21,9 +21,6 @@
         interactivity
 + Module 3
     + 3-1
-        + Add trichotomy of module types (data hygiene OpenRefine, data hygiene
-        R/Python, analysis R/Python)
-        + Add overview of platforms / tools (GitHub, Binder)
     + 3-2
     + 3-3
         + Need to wrap up and look ahead to session 2
