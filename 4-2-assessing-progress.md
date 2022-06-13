@@ -1,33 +1,46 @@
 ---
-layout: default
-title: TODO: INSERT TITLE
+layout: course-2
+title: Assessing Learning Progress
 ---
 
-# TODO: INSERT TITLE
+# Assessing Learning Progress
 
 ## Lesson objectives
 
-+ 
-+ 
-+ 
++ Write formative assessments to measure learning objectives 
 
 ## Overview
 
-TODO: An overview of the current lesson
+Today will be focused time to work on your learning objectives and assessments 
+for those objectives.
+
+## Formative assessments work
 
 <div class="exercise" markdown="1">
 **Exercise**
 
-Add exercise text here
+Take time now to revisit your learning objectives you wrote earlier. Based on 
+your reflection and peer review. What changes would you like to make?
 </div>
 
-## Topic 1
+<div class="exercise" markdown="1">
+**Exercise**
 
+Now take time writing assessments for your remaining learning objectives. After
+30 minutes you will have an opportunity to provide one another feedback.
+</div>
 
 <div class="exercise" markdown="1">
 **Exercise**
 
-**TODO**: Time to write assessments for remaining learning objectives
+Provide feedback on your peers' assessments. Are there additional ways they 
+could minimize the cognitive load for their students?
+</div>
+
+<div class="exercise" markdown="1">
+**Exercise**
+
+Continue work on learning assessments.
 </div>
 
 
@@ -49,12 +62,12 @@ a little as you develop your lesson content - none of us get it right on the
 first try - however, if you have invested time in the first two steps of the 
 backward design process, these changes should be fairly small.
 
-
-
 <div class="exercise" markdown="1">
 **Homework**
 
-Describe homework
+Next week we will be focused on identifying data sets to use in class and for 
+assessments. For the next session, start thinking about the minimal 
+requirements for data that you would like to use.
 </div>
 
 ## Feedback on the day
@@ -64,6 +77,6 @@ Please take no more than two minutes to provide feedback on today's session at
 
 ***
 
-Previous lesson: [TODO: Lesson title](TODO: Lesson file)
+Previous lesson: [Applied Lesson Development](4-1-applied-backwards-design.md)
 
 Next lesson: [TODO: Lesson title](TODO: Lesson file)
