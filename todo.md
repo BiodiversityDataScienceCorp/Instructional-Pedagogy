@@ -26,20 +26,4 @@
         + Need to wrap up and look ahead to session 2
 + Module 4
     + 4-1
-        + Add Overview
-        + Add description of deliverable
-            + A set of learning objectives
-            + Formative assessments for those learning objectives
-            + The data set to use
-            + The delivery mode(s) and/or platforms
-        + Add reflection exercise for previous lesson (practice teaching)
-        + Add exercise: Description of data science module they would like to 
-        deploy in their classroom
-        + Add exercise: List of skills for lesson
-        + Add exercise: Some form of peer-review for skills list
-        + Add exercise: Convert the skills to learning objectives
-        + Add exercise: Write a formative assessment for one learning objective
-        + Add exercise: Peer review of formative assessment
-        + Add exercise: Concept map of final assessment
-        + Add homework: Maybe review types of assessments, as that is what 
-        focus of next session will be?
+    + 4-2

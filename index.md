@@ -27,3 +27,10 @@ The first portion of the series is broken into three modules:
 | 3: The skill of teaching | [Feedback](3-1-feedback.md) |
 | | [The art of live coding](3-2-live-coding.md) |
 | | [Practice live coding](3-3-practice.md) |
+
+The second portion of the series is broken into three modules:
+
+| Module | Lesson |
+|:-------|:-------|
+| 4: Lesson planning | [Applied lesson development](4-1-applied-backwards-design.md) |
+| | [Assessing learning progress](4-2-assessing-progress.md) |
