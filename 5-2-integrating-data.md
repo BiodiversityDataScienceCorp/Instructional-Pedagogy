@@ -13,7 +13,7 @@ title: Integrating Data Sets
 
 ## Overview
 
-Once the dataset is in place, you can start to design challenges that provide learners an opportunity to practice the skills that you’ve included in your skills list. Writing the challenges before writing the content of the lesson ensures that the lesson will remain focused, and can reveal gaps in your skills list.
+Once the dataset is in place, you can start to design challenges that provide students an opportunity to practice the skills that you've included in your skills list. Writing the challenges before writing the content of the lesson ensures that the lesson will remain focused, and can reveal gaps in your skills list.
 
 <div class="exercise" markdown="1">
 **Exercise**
@@ -23,11 +23,11 @@ Add exercise text here
 
 ## Designing Challenges
 
-The challenges in a lesson should be a mixture of direct application challenges and synthesis challenges. A direct application challenge is a straightforward implementation of a concept that learners have just been exposed to, while a synthesis challenge requires learners to integrate recently learned skills with skills that were covered earlier in the lesson. Learning is reinforced when Instructors explicitly point out how the skills seen in earlier parts of the lesson are being integrated to solve the challenges.
+The challenges in a lesson should be a mixture of direct application challenges and synthesis challenges. A direct application challenge is a straightforward implementation of a concept that students have just been exposed to, while a synthesis challenge requires students to integrate recently learned skills with skills that were covered earlier in the lesson. Learning is reinforced when Instructors explicitly point out how the skills seen in earlier parts of the lesson are being integrated to solve the challenges.
 
-Challenges in Carpentries lessons are a form of formative assessment. They help learners further their learning by having a chance to put into practice the skills being taught. They also help Instructors monitor the level of understanding in the classroom, and potentially catch misconceptions in the learner’s mental models that can be corrected in real time, before they become ingrained.
+Challenges in Carpentries lessons are a form of formative assessment. They help students further their learning by having a chance to put into practice the skills being taught. They also help Instructors monitor the level of understanding in the classroom, and potentially catch misconceptions in the student's mental models that can be corrected in real time, before they become ingrained.
 
-When starting to design challenges, it is helpful to start by planning the last exercise of each episode. This will help you keep the big picture in mind and ensure that the rest of the exercises you develop lead up to this larger goal. These final challenges are also the most likely to be “unscaffolded”, and so are easier to develop without detailed knowledge of the various types of exercises discussed later in this chapter. So you can go ahead and draft those final challenges now before reading the rest!
+When starting to design challenges, it is helpful to start by planning the last exercise of each episode. This will help you keep the big picture in mind and ensure that the rest of the exercises you develop lead up to this larger goal. These final challenges are also the most likely to be "unscaffolded", and so are easier to develop without detailed knowledge of the various types of exercises discussed later in this chapter. So you can go ahead and draft those final challenges now before reading the rest!
 
 ## Topic 2
 
