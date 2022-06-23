@@ -8,6 +8,7 @@ title: Integrating Data Sets
 ## Lesson objectives
 
 + Write formative assessments to measure progress on learning objectives
++ Provide feedback on formative assessments
 
 ## Overview
 
@@ -46,6 +47,27 @@ ingrained.
 
 Now take time writing assessments for your remaining learning objectives. After
 30 minutes you will have an opportunity to provide one another feedback.
+</div>
+
+<div class="exercise" markdown="1">
+**Exercise**
+
+Share one or more of your assessments with your group. As you review your 
+peers' assessments, consider:
+
++ What knowledge does the student need to address the assessment?
++ Is the assessment a direct application (implementation of a single concept 
+  that was taught) or a synthesis question (requires integration of previously 
+  covered material with new material)?
++ What misconceptions will this assessment help to identify?
+
+Start by each person introducing the assessment and providing the context for 
+it (who is the audience, what is being covered in the lesson). Then spend five
+minutes reviewing one of your peers' assessments _on your own_ (be sure that 
+everyone has an assessment to review and everyone gets one of their assessments 
+reviewed). After the quiet review, come back and share feedback among the 
+group.
+
 </div>
 
 <div class="exercise" markdown="1">
