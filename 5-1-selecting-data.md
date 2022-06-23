@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: course-2
 title: Selecting Data
 ---
 

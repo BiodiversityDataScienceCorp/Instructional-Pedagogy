@@ -11,3 +11,5 @@ cat 3-2-live-coding.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/
 cat 3-3-practice.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/3-3-practice.pdf
 cat 4-1-applied-backwards-design.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/4-1-applied-backwards-design.pdf
 cat 4-2-assessing-progress.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/4-2-assessing-progress.pdf
+cat 5-1-selecting-data.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/5-1-selecting-data.pdf
+cat 5-2-integrating-data.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/5-2-integrating-data.pdf
