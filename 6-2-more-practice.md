@@ -17,10 +17,7 @@ TODO: An overview of the current lesson
 <div class="exercise" markdown="1">
 **Exercise**
 
-+ List one thing you can do to motivate your students in the classroom
-+ List one thing you should avoid doing to demotivate your students in the
-classroom
-
+Add exercise here
 </div>
 
 ## Topic 1
