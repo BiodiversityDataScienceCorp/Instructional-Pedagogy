@@ -89,4 +89,4 @@ Please take no more than two minutes to provide feedback on today's session at
 
 Previous lesson: [Selecting Data](5-1-selecting-data.md)
 
-Next lesson: [Assessing the Assessments](6-1-assessing-assessments.md)
+Next lesson: [Review and Next Steps](6-1-review-next-steps.md)

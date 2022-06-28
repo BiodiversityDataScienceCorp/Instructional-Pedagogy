@@ -36,3 +36,4 @@ The second portion of the series is broken into three modules:
 | | [Assessing learning progress](4-2-assessing-progress.md) |
 | 5: Lesson data | [Selecting Data](5-1-selecting-data.md) |
 | | [Integrating Datasets](5-2-integrating-data.md) |
+| 6: Putting it Together | [Review and Next Steps](6-1-review-next-steps) |

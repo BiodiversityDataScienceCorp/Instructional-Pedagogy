@@ -13,3 +13,4 @@ cat 4-1-applied-backwards-design.md docs/lesson-notes-footer.md | pandoc -f mark
 cat 4-2-assessing-progress.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/4-2-assessing-progress.pdf
 cat 5-1-selecting-data.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/5-1-selecting-data.pdf
 cat 5-2-integrating-data.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/5-2-integrating-data.pdf
+cat 6-1-review-next-steps.md docs/lesson-notes-footer.md | pandoc -f markdown -o docs/pdf/6-1-review-next-steps.pdf

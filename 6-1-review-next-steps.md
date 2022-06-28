@@ -1,9 +1,9 @@
 ---
 layout: course-2
-title: Assessing the Assessments
+title: Review and Next Steps
 ---
 
-# Assessing the Assessments
+# Review and Next Steps
 
 ## Lesson objectives
 
@@ -39,17 +39,6 @@ _everything_, but we want to make the time work best for you.
     + 
 + Structured discussion of useful strategies
     + 
-</div>
-
-
-## Topic 1
-
-## Topic 2
-
-<div class="exercise" markdown="1">
-**Homework**
-
-Describe homework
 </div>
 
 ## Feedback on the day
