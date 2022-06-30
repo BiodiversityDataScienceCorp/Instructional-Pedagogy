@@ -50,4 +50,4 @@ Please take no more than two minutes to provide feedback on today's session at
 
 Previous lesson: [Integrating Data](5-2-integrating-data.md)
 
-Next lesson: [More Practice](6-2-more-practice)
+Next lesson: [Reflection](6-2-reflection)
