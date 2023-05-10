@@ -1,11 +1,18 @@
 ---
-title: "Instructional Pedagogy"
+title: ""
+image: images/bdsc-logo-hex.png
+about:
+  template: trestles
+  image-shape: rectangle
 ---
 
-This is a Quarto website.
+# Instructional Data Science Pedagogy
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+This site includes curricular material for the summer workshop series on
+designing data science modules for undergraduate classrooms. The funding for
+this work comes from the NSF-funded project "Building Capacity in Data
+Science through Biodiversity, Conservation, and General Education" (Awards
+[2122967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122967)
+and [2122991](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122991)).
 
-```{r}
-1 + 1
-```
+

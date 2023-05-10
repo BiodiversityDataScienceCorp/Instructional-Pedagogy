@@ -1,0 +1,9 @@
+---
+title: "Learning goals"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

@@ -1,0 +1,9 @@
+---
+title: "Lesson development"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

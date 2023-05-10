@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Instructional Pedagogy"
@@ -7,13 +8,24 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: "Pedagogy Lessons"
+        menu: 
+         - building-skill.qmd
+         - memory-learning.qmd
+         - learning-goals.qmd
+         - motivation-demotivation.qmd
+         - eia.qmd
+         - feedback-how-to.qmd
+         - live-coding.qmd
+         - lesson-development.qmd
       - about.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: united
     css: styles.css
     toc: true
+    page-layout: full
 
 
 

@@ -1,0 +1,9 @@
+---
+title: "Live coding"
+---
+
+About this site
+
+```{r}
+1 + 1
+```

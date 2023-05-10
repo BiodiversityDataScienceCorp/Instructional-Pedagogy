@@ -1,0 +1,9 @@
+---
+title: "Equity, inclusion, & accessibility"
+---
+
+About this site
+
+```{r}
+1 + 1
+```
