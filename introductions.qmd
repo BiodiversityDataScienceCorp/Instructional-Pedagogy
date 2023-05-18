@@ -2,6 +2,9 @@
 title: "Introductions"
 ---
 
+_If you are looking at this material for the first time, check out our 
+[About page](about.html) to learn more before you start._
+
 ## Lesson objectives
 
 + Identify common ground with some of your fellow workshop participants
@@ -11,9 +14,10 @@ title: "Introductions"
 
 ### Instructors
 
-As participants come in, add name and e-mail to the collaborative document.
+As participants come in, ask them to add their name and e-mail to the 
+collaborative document.
 
-(Instructors will introduce themselves)
+Instructors will introduce themselves.
 
 ### Context
 
@@ -29,12 +33,14 @@ with an emphasis, but not restriction, to STEM fields.
 undergraduate students, so they can feel empowered to teach data science 
 applications in their classrooms.
 
+The lessons presented here address point #2 above.
+
 [The Carpentries](https://carpentries.org/) is a non-profit organization that 
 teaches foundational coding and data science skills to researchers worldwide. 
 These are most often advertised as Software Carpentry, Data Carpentry, and 
 Library Carpentry workshops. The organization has a curriculum for _training_ 
-the folks who instruct in those workshops, and much of the material in this 
-first session comes from that 
+the folks who instruct in those workshops, and much of the material in the 
+pedagogy session comes from that 
 [instructor training curriculum](https://carpentries.github.io/instructor-training/). 
 
 Now we would like to hear from you.
@@ -45,9 +51,8 @@ Now we would like to hear from you.
 
 **Exercise**
 
-Add your name to the collaborative document and provide a brief 
-(2-3 sentences) description of your motivation for participating in this summer 
-session.
+Add your name to the collaborative document and provide a brief (2-3 sentences) 
+description of your motivation for participating in this summer session.
 
 ***
 
@@ -80,8 +85,8 @@ for those on Zoom, we will be occasionally using breakout rooms. For those who
 are participating in person, there will be points where we will ask you to 
 split into groups and for the small group activities. We will be switching back 
 in forth between passive learning (i.e. me talking to you) and active learning, 
-where you are provided prompts to respond to. Towards the end of this first 
-three-week session, you will also have opportunities to do some practice 
+where you are provided prompts to respond to. Towards the end of the lessons 
+focused on pedagogy, you will also have opportunities to do some practice 
 teaching.
 
 ### What will be covered

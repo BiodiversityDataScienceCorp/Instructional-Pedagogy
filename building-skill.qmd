@@ -73,10 +73,10 @@ ordinary.
 
 **Exercise**
 
-In the collaborative document, add the name of someone you think
-of as an expert. They don't have to be in your field, just someone who as
-acquired enough skill to qualify as an expert as we just defined. After their
-name, explain _why_ they are an expert.
+In the collaborative document, add the name of someone you think of as an 
+expert. They don't have to be in your field, just someone who as acquired 
+enough skill to qualify as an expert as we just defined. After their name, 
+explain _why_ they are an expert.
 
 ***
 
@@ -127,13 +127,7 @@ a car, it's engine, and the wheels. We start a concept map by just adding the
 concepts, or the parts of the model. In this case, we have three boxes, labeled
 "engine", "car", and "wheels":
 
-<!-- 
-
-<div class="center" markdown="1">
-![Three boxes vertically aligned with labels "engine", "wheels", and "car"](assets/img/concept-map-1.png)
-</div>
-
--->
+![The start of a concept map](images/concept-map-1.png){fig-alt="Three boxes vertically aligned with labels 'engine', 'wheels', and 'car'"}
 
 The next part of a concept map would be to draw lines or edges to indicate the
 relationships among the different components. Here we add a line connecting the
@@ -141,13 +135,7 @@ engine and the wheels, and the wheels and the car. In the figure we add that
 the engine spins, turning the wheels, and that the wheels move and propel the
 car.
 
-<!--
-
-<div class="center" markdown="1">
-![Three boxes vertically aligned with labels "engine", "wheels", and "car"; arrow linking engine to wheels reads "spins, turning"; arrow linking wheels to car reads "move"](assets/img/concept-map-2.png)
-</div>
-
--->
+![Drawing _relationships_ in the concept map](images/concept-map-2.png){fig-alt="Three boxes vertically aligned with labels 'engine', 'wheels', and 'car'; arrow linking engine to wheels reads 'spins, turning'; arrow linking wheels to car reads 'move'"}
 
 This is a fairly simplified concept map, but it shows how a mental model of how
 a car works can be represented graphically.
@@ -157,15 +145,25 @@ Some additional examples of concept maps are:
 + `for` loops in Python [https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-rec.png](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-rec.png)
 + Simplified carbon cycle [https://raw.githubusercontent.com/carpentries/instructor-training/390de72105bad961a0c1beac09be2cc933a84f88/fig/Tree3.svg](https://raw.githubusercontent.com/carpentries/instructor-training/390de72105bad961a0c1beac09be2cc933a84f88/fig/Tree3.svg)
 
+### Concept maps are _not_ mental models
+
+It is easy to confuse these two terms. We cannot "see" a person's mental model, 
+this term is an abstract description of how someone understands some part of 
+the world. We can use concept maps as a visual representation of a mental 
+model, but there are plenty of nuances of understanding that may be missed in a 
+concept map. To misquote George Box, "All concept maps are wrong, but some are 
+useful."
+
 ***
 
 **Exercise**
 
 Draw a concept map for a mental model of something you teach.
-Start by identifying the "things" or parts of the model, then draw on the
-relationships among them. You can do this on paper or with your computer; an
-online tool for this can be found at
-[https://excalidraw.com/](https://excalidraw.com/).
+Start by identifying the "things" or parts of the model - these are the boxes 
+(or circles if you prefer that shape). Next draw relationships as lines 
+connecting the shapes. Use arrows if there is directionality to the 
+relationship. You can do this on paper or with your computer; an online tool 
+for this can be found at [https://excalidraw.com/](https://excalidraw.com/).
 
 ***
 
@@ -175,13 +173,7 @@ Consider a modification of our concept map about the car from above. In this
 map, a student links the speed at which the engine turns directly to the speed
 of the car.
 
-<!--
-
-<div class="center" markdown="1">
-![Three boxes vertically aligned with labels "engine", "wheels", and "car"; arrow linking engine to wheels reads "spins faster"; arrow linking wheels to car reads "moves faster"](assets/img/concept-map-3.png)
-</div>
-
--->
+![A misconception that higher engine speeds always mean higher car velocity](images/concept-map-3.png){fig-alt="Three boxes vertically aligned with labels 'engine', 'wheels', and 'car'; arrow linking engine to wheels reads 'spins faster'; arrow linking wheels to car reads "moves faster'"}
 
 So it turns out this is not necessarily how things work. In fact, a direct
 coupling of the engine to the wheels would most likely cause a car to violently
@@ -200,13 +192,7 @@ An updated version of this model would include the transmission, which allows
 the engine speed to stay relatively constant even when traveling at different
 speeds.
 
-<!--
-
-<div class="center" markdown="1">
-![Four boxes with labels "engine", "transmission", "wheels", and "car"; arrow linking engine to transmission reads "spins"; arrow linking transmission and wheels reads "controls speed of"; arrow linking wheels to car reads "move"](assets/img/concept-map-4.png)
-</div>
-
--->
+![Mental models often grow to become more accurate](images/concept-map-4.png){fig-alt="Four boxes with labels 'engine', 'transmission', 'wheels', and 'car'; arrow linking engine to transmission reads 'spins'; arrow linking transmission and wheels reads 'controls speed of'; arrow linking wheels to car reads 'move'"}
 
 Most mental models worth mapping are not so simple. Yet, forcing complex ideas
 in to this simplified format can be useful when preparing to teach, because it
@@ -217,8 +203,8 @@ topic, and to name relationships between them.
 
 **Exercise**
 
-Count the number of things in your concept map (lines and items)
-and add that number to the collaborative document.
+Count the number of things in your concept map (lines and items) and add that 
+number to the collaborative document.
 
 ***
 
@@ -271,8 +257,8 @@ The correct answer is (a) 42, but the other answers provide information.
 
 **Exercise**
 
-Choose one wrong answer and write in the collaborative document
-what misconception is associated with that wrong answer.
+Choose one wrong answer and write in the collaborative document what 
+misconception is associated with that wrong answer.
 
 **Solution**
 
@@ -297,8 +283,8 @@ select that choice.
 
 **Exercise**
 
-Consider your concept map and write a multiple choice question to
-identify points where the mental model represented might be broken.
+Consider your concept map and write a multiple choice question to identify 
+points where the mental model represented might be broken.
 
 ***
 
@@ -341,9 +327,8 @@ difficulties.
 
 **Exercise**
 
-What is something that _you_ are an expert in? How does your
-experience when you are acting as an expert differ from when you are not an
-expert?
+What is something that _you_ are an expert in? How does your experience when 
+you are acting as an expert differ from when you are not an expert?
 
 ***
 
@@ -365,3 +350,5 @@ firmly establishes an expectation that people will, indeed, have questions, and
 should challenge themselves to formulate them.
 
 ## Feedback on the day
+
+Your instructor will ask for you to provide feedback on this session.

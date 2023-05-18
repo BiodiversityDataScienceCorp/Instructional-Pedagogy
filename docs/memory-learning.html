@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.1.189">
+<meta name="generator" content="quarto-1.2.335">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/favicon.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -80,11 +81,18 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html">Home</a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-pedagogy-lessons" role="button" data-bs-toggle="dropdown" aria-expanded="false">Pedagogy Lessons</a>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-pedagogy-lessons" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Pedagogy Lessons</span>
+    </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-pedagogy-lessons">    
+        <li>
+    <a class="dropdown-item" href="./introductions.html">
+ <span class="dropdown-text">Introductions</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="./building-skill.html">
  <span class="dropdown-text">Building skill with practice</span></a>
@@ -120,7 +128,8 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./about.html">About</a>
+    <a class="nav-link" href="./about.html">
+ <span class="menu-text">About</span></a>
   </li>  
 </ul>
               <div id="quarto-search" class="" title="Search"></div>
@@ -163,6 +172,7 @@ ul.task-list li input[type="checkbox"] {
 <div class="quarto-title-meta">
 
     
+  
     
   </div>
   
@@ -265,7 +275,13 @@ for (i in 1:10) {
 <p><strong>Exercise</strong></p>
 <p>What are some of the challenges you might expect when teaching students with a broad range of expertise? Add your thoughts in the collaborative document.</p>
 <hr>
-<p>Here are some strategies to deal with this issue: + Be sure that course advertisements communicate its level clearly by describing not only the topics, but also the specific skills and tasks (you can communicate this through your learning objectives, which we will talk about shortly). + During class, encourage students to help others when they feel comfortable doing so. Teaching is a great way to level up learning. Note that you may need an icebreaker before most students will take this advice. + Do not let advanced students take over the conversation during class, no matter how interesting it may be. This can alienate beginners and consumes precious time. Advanced questions and comments can be politely reserved for office hours. + If you have help in the class (teaching assistants, preceptors), these folks should be vigilant for students who are falling behind and intervene early so that they do not become frustrated and give up. Frequent reminders to your students to indicate their progress will support your team in targeting problems in time. We’ll talk more about how to assess progress in a bit.</p>
+<p>Here are some strategies to deal with this issue:</p>
+<ul>
+<li>Be sure that course advertisements communicate its level clearly by describing not only the topics, but also the specific skills and tasks (you can communicate this through your learning objectives, which we will talk about shortly).</li>
+<li>During class, encourage students to help others when they feel comfortable doing so. Teaching is a great way to level up learning. Note that you may need an icebreaker before most students will take this advice.</li>
+<li>Do not let advanced students take over the conversation during class, no matter how interesting it may be. This can alienate beginners and consumes precious time. Advanced questions and comments can be politely reserved for office hours.</li>
+<li>If you have help in the class (teaching assistants, preceptors), these folks should be vigilant for students who are falling behind and intervene early so that they do not become frustrated and give up. Frequent reminders to your students to indicate their progress will support your team in targeting problems in time. We’ll talk more about how to assess progress in a bit.</li>
+</ul>
 <p>No class can possibly meet all individual training needs. However, it is entirely possible for total beginners and advanced students to come away happy from the same class. Beginners may not yet feel competent, but they may build a mental model of the domain and develop confidence that they can learn these skills because they have successfully walked through them. Advanced students may enjoy picking up “tips and tricks” or having their own self-taught approaches validated.</p>
 <hr>
 <p><strong>Exercise</strong></p>
@@ -274,11 +290,12 @@ for (i in 1:10) {
 <p>Dealing effectively with different skill levels does take some planning. However, with appropriate advertising and team cohesion on priorities and strategies, your workshop can be a worthwhile experience for everyone.</p>
 <hr>
 <p><strong>Homework</strong></p>
-<p>Next week we will be focused on the classroom. We would like you to start thinking about topics you have taught or would like to teach that involve hands-on components to them. We will be using those topics to guide some of next week’s exercises.</p>
+<p>In the upcoming sessions, we will be focused on the classroom. We would like you to start thinking about topics you have taught or would like to teach that involve hands-on components to them. We will be using those topics to guide some the next set of exercises.</p>
 <hr>
 </section>
 <section id="feedback-on-the-day" class="level2">
 <h2 class="anchored" data-anchor-id="feedback-on-the-day">Feedback on the day</h2>
+<p>Your instructor will ask for you to provide feedback on this session.</p>
 
 
 </section>
@@ -325,7 +342,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
     button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
     setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
       button.setAttribute("title", currentTitle);
       button.classList.remove('code-copy-button-checked');
     }, 1000);
@@ -361,24 +395,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return note.innerHTML;
     });
   }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
   var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
   for (var i=0; i<bibliorefs.length; i++) {
     const ref = bibliorefs[i];
-    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
-    tippyHover(ref, function() {
-      var popup = window.document.createElement('div');
-      cites.forEach(function(cite) {
-        var citeDiv = window.document.createElement('div');
-        citeDiv.classList.add('hanging-indent');
-        citeDiv.classList.add('csl-entry');
-        var biblioDiv = window.document.getElementById('ref-' + cite);
-        if (biblioDiv) {
-          citeDiv.innerHTML = biblioDiv.innerHTML;
-        }
-        popup.appendChild(citeDiv);
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
       });
-      return popup.innerHTML;
-    });
+    }
   }
 });
 </script>

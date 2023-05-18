@@ -2,8 +2,34 @@
 title: "About"
 ---
 
-About this site
+This training is part of the NSF-funded project "Building Capacity in Data 
+Science through Biodiversity, Conservation, and General Education" (Awards 
+[2122967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122967) 
+and [2122991](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122991)). The 
+goals of the grant are really two-fold:
 
-```{r}
-1 + 1
-```
+1. Provide accessible data science skills training to undergraduate students, 
+with an emphasis, but not restriction, to STEM fields.
+2. Provide professional development opportunities to instructors of those 
+undergraduate students, so they can feel empowered to teach data science 
+applications in their classrooms.
+
+The lessons presented here address point #2 above.
+
+[The Carpentries](https://carpentries.org/) is a non-profit organization that 
+teaches foundational coding and data science skills to researchers worldwide. 
+These are most often advertised as Software Carpentry, Data Carpentry, and 
+Library Carpentry workshops. The organization has a curriculum for _training_ 
+the folks who instruct in those workshops, and much of the material in the 
+pedagogy session comes from that 
+[instructor training curriculum](https://carpentries.github.io/instructor-training/). 
+
+## How to use this material
+
+These materials are intended to be taught over a series of sessions, each 
+lasting around two hours, with time for a break at the hour. Lessons are led by 
+an instructor and wherever possible, emphasize interaction and participation. 
+The materials, largely adapted from The Carpentries training curriculum, are 
+primarily designed for online, synchronous delivery, although we have had some 
+success delivering them in hybrid mode. All materials here are licensed under a
+[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.

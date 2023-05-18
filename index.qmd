@@ -14,5 +14,3 @@ this work comes from the NSF-funded project "Building Capacity in Data
 Science through Biodiversity, Conservation, and General Education" (Awards
 [2122967](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122967)
 and [2122991](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122991)).
-
-

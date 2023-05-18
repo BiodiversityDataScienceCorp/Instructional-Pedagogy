@@ -4,12 +4,14 @@ project:
 
 website:
   title: "Instructional Pedagogy"
+  favicon: images/favicon.png
   navbar:
     left:
       - href: index.qmd
         text: Home
       - text: "Pedagogy Lessons"
         menu: 
+         - introductions.qmd
          - building-skill.qmd
          - memory-learning.qmd
          - learning-goals.qmd
@@ -26,6 +28,8 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-
+#  pdf: 
+#    toc: true
+#    color-links: true
 
 
