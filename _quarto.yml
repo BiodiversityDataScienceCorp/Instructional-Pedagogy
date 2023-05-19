@@ -5,6 +5,7 @@ project:
 website:
   title: "Instructional Pedagogy"
   favicon: images/favicon.png
+  site-path: "/docs/"
   navbar:
     left:
       - href: index.qmd
