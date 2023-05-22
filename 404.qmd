@@ -14,4 +14,4 @@ the page you are looking for.
 Maybe you just need to take a moment and read about the 
 [Gentoo Penguin](https://ebird.org/species/genpen1), which is cool with us, too.
 
-![Photo by Andrew Shiva/Wikipedia](images/gentoo.jpg){Brown Bluff 2016 Tabarin Peninsula Gentoo penguin (Pygoscelis papua)}
+![Photo by Andrew Shiva](images/gentoo.jpg){fig-alt="Brown Bluff 2016 Tabarin Peninsula Gentoo penguin (Pygoscelis papua)"}
