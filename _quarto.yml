@@ -29,8 +29,8 @@ format:
     css: styles.css
     toc: true
     page-layout: full
-#  pdf: 
-#    toc: true
-#    color-links: true
+  pdf:
+    toc: true
+    color-links: true
 
 
