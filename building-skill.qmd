@@ -65,16 +65,16 @@ circumstances.
     before and understand how to modify existing code and write short scripts.
 + Expert: someone who can easily handle situations that are out of the
 ordinary.
-    + Example: An expert may have experience their own functions in R and using
-    them in complex workflows. When presented with a problem, immediately sees
-    how these skills can be used to solve the problem.
+    + Example: An expert may have experience writing their own functions in R 
+    and using them in complex workflows. When presented with a problem, 
+    immediately sees how these skills can be used to solve the problem.
 
 ***
 
 **Exercise**
 
 In the collaborative document, add the name of someone you think of as an 
-expert. They don't have to be in your field, just someone who as acquired 
+expert. They don't have to be in your field, just someone who has acquired 
 enough skill to qualify as an expert as we just defined. After their name, 
 explain _why_ they are an expert.
 
@@ -173,7 +173,7 @@ Consider a modification of our concept map about the car from above. In this
 map, a student links the speed at which the engine turns directly to the speed
 of the car.
 
-![A misconception that higher engine speeds always mean higher car velocity](images/concept-map-3.png){fig-alt="Three boxes vertically aligned with labels 'engine', 'wheels', and 'car'; arrow linking engine to wheels reads 'spins faster'; arrow linking wheels to car reads "moves faster'"}
+![A misconception that higher engine speeds always mean higher car velocity](images/concept-map-3.png){fig-alt="Three boxes vertically aligned with labels 'engine', 'wheels', and 'car'; arrow linking engine to wheels reads 'spins faster'; arrow linking wheels to car reads 'moves faster'"}
 
 So it turns out this is not necessarily how things work. In fact, a direct
 coupling of the engine to the wheels would most likely cause a car to violently

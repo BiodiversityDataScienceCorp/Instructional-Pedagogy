@@ -21,7 +21,7 @@ point to the next, and how to know when they've gotten there. In this session,
 we will focus on strategies for designing content to achieve specific learning 
 outcomes.
 
-## Welcome back exercise?
+## Reflection
 
 ***
 
@@ -92,6 +92,8 @@ Consider the five learning objectives we saw above:
 
 + Produce scatter plots, boxplots, and time series plots using ggplot.
 + Set universal plot settings.
++ Describe what faceting is and apply faceting in ggplot (ggplot is a package 
+  in R used to create plots).
 + Modify the aesthetics of an existing ggplot plot (including axis labels and 
   color).
 + Build complex and customized plots from data in a data frame.

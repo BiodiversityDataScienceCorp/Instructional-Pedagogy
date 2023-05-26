@@ -110,6 +110,13 @@ Add your answer to the collaborative document.
 
 ***
 
+**Exercise**
+
+Given what you have discussed about strategies for memory management, what are 
+the primary _constraints_ to adopting the techniques we have discussed?
+
+***
+
 ## Attention is a limited resource: Cognitive Load
 
 Memory is not the only cognitive resource that is limited. Attention is 
@@ -178,7 +185,7 @@ gene expression workflow:
 for the for loop in Python example and ask the students to draw lines between 
 concepts and label the relationships.
 
-![Concepts of a Python for loop](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/for-loop-concepts.png)
+![Concepts of a Python for loop](images/for-loop-concepts.png)
 
 Beware assessments that are too open-ended, as these are very likely to induce 
 cognitive overload in novices. You may have experienced some overload already 
@@ -214,7 +221,9 @@ strategies to employ to ensure a positive learning experience for all.
 **Exercise**
 
 What are some of the challenges you might expect when teaching students with a 
-broad range of expertise? Add your thoughts in the collaborative document.
+broad range of expertise? How have you handled situations with different skill 
+levels in your classroom? Are there situations you have yet to "solve"? Add 
+your thoughts in the collaborative document.
 
 ***
 
@@ -244,16 +253,6 @@ mental model of the domain and develop confidence that they can learn these
 skills because they have successfully walked through them. Advanced students 
 may enjoy picking up "tips and tricks" or having their own self-taught 
 approaches validated.
-
-***
-
-**Exercise**
-
-How have you handled situations with different skill levels in your classroom? 
-Are there situations you have yet to "solve"? Put your answers in the 
-collaborative document.
-
-***
 
 Dealing effectively with different skill levels does take some planning. 
 However, with appropriate advertising and team cohesion on priorities and 
