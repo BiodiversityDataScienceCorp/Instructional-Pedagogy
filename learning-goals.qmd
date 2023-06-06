@@ -64,7 +64,7 @@ they are, we also need to be mindful about helping them to "grow a level,"
 helping them to recognize when they have achieved that growth, and guiding them 
 to look ahead to where we might not be able to take them.
 
-![Image credit: Vanderbilt University Center for Teaching](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/Blooms.png)
+![Image credit: Vanderbilt University Center for Teaching](images/blooms.png)
 
 When thinking about learning objectives for our purposes, we are going to focus 
 on a fairly atomic level. That is, thinking about objectives for a class 
@@ -126,7 +126,7 @@ For example, after teaching content to address the first point (common
 spreadsheet formatting problems), we could ask students to provide a better 
 organization to these data:
 
-![](https://datacarpentry.org/spreadsheets-socialsci/fig/multiple-info.png)
+![](images/multiple-info.png)
 
 ***
 
@@ -145,10 +145,10 @@ collaborative document.
 **Exercise**
 
 Consider the learning objectives you wrote above and create an assessment like 
-the ones we described last previously (multiple choice questions, faded 
-examples, Parson’s problems, or diagram labeling). After creating this 
-assessment, explain how you expect it to reinforce what you taught and/or 
-identify misconceptions students may have.
+the ones we described previously (multiple choice questions, faded examples, 
+Parson’s problems, or diagram labeling). After creating this assessment, 
+explain how you expect it to reinforce what you taught and/or identify
+misconceptions students may have.
 
 ***
 
@@ -195,8 +195,8 @@ whether the students' level of understanding has met the instructor's goal.
 
 ### Sticky Notes
 
-So you _do_ you assess students' progress without asking? One way is to ask for 
-quick check-ins. If you are teaching in-person, you can start the class by 
+So how you _do_ you assess students' progress without asking? One way is to ask 
+for quick check-ins. If you are teaching in-person, you can start the class by 
 handing out two sticky notes to each student, say one red one and one green 
 one. These can act as "flags" that students can place on the back of their 
 laptop screens to indicate when they need help (say, the red note) or when they 
