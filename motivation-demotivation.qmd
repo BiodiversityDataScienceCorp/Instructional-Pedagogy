@@ -69,7 +69,7 @@ ideally be taught first; things in the opposite corner that are time-consuming
 to learn and have little near-term application should be avoided for short 
 data science modules.
 
-![Source: The Carpentries](https://carpentries.github.io/instructor-training/fig/what-to-teach.png)
+![Source: The Carpentries](images/what-to-teach.png)
 
 ### Invite Participation
 

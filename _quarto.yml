@@ -18,9 +18,9 @@ website:
          - learning-goals.qmd
          - motivation-demotivation.qmd
          - eia.qmd
+         - lesson-development.qmd
          - feedback-how-to.qmd
          - live-coding.qmd
-         - lesson-development.qmd
       - about.qmd
 
 format:
