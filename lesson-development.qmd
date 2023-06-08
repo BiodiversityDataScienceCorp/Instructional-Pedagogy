@@ -16,12 +16,6 @@ with a review of reverse instructional design, then provide an opportunity to
 brainstorm with your peers on your module ideas. We will then move into working 
 with learning objectives and assessing student's progress.
 
-### Logistics
-
-For this second three week session, we will be offering more time for you to 
-work on your modules and receive peer feedback. We will also be doing some 
-instructional sessions based on the feedback you received.
-
 ## Reverse instructional design
 
 Backward design is an instructional design model that starts with identifying 
@@ -87,7 +81,7 @@ module. Add this list of skills to the collaborative document.
 
 ***
 
-![Image credit: Vanderbilt University Center for Teaching](https://raw.githubusercontent.com/carpentries/instructor-training/gh-pages/fig/Blooms.png)
+![Image credit: Vanderbilt University Center for Teaching](images/blooms.png)
 
 ***
 
