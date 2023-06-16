@@ -32,7 +32,7 @@ foot? What could they have done to get things back on track?
 
 Sometimes it can be hard to receive feedback, especially negative feedback.
 
-![Image credit: deathbulge.com](https://carpentries.github.io/instructor-training/fig/deathbulge-jerk.jpg)
+![Image credit: deathbulge.com](images/deathbulge-jerk.jpg)
 
 Feedback is most effective when the people involved share ground rules and 
 expectations. One useful approach is to balance feedback on what works with 
@@ -113,21 +113,19 @@ The prep time for this exercise is intentionally short - the
 point is to practice giving and receiving feedback, not to create a perfect 
 presentation. Imperfect presentations will give you more to work with!
 
-1. Split into groups of three (your instructor will likely send you to breakout
-  rooms, or if you are co-located, will assign groups).
-2. Individually, spend 5 minutes preparing a 90-second introduction to the 
-topic you picked out after last session. You won't be doing any "live coding" 
-or exercises with your audience (this time).
-3. Get together with your group and have one person teach their segment to the 
-group. Keep a strict time limit of 90 seconds per person (one person should be 
-responsible for the timekeeping).
-4. After the first person has finished teaching, share feedback. The person who 
-performed should start by offering feedback on **themselves**. The timekeeper 
-should help to keep feedback to about 5 minutes per person to ensure everyone 
-has time to perform and discuss.
-5. Rotate roles and repeat steps 3 & 4.
-6. Return to the main group and briefly summarize the feedback you received in 
-the collaborative document.
+1. Split into groups of three.
+2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
+3. Have each group member teach 3 minutes of your chosen lesson episode using 
+live coding. For this exercise, your peers will not "code-along." Before you 
+begin, briefly describe what you will be teaching and what has been learned 
+previously.
+4. After each person finishes, each group member should share feedback 
+(starting with themselves) using the same 2x2 rubric as before 
+(positive/negative, content/presentation). The timekeeper should keep feedback 
+discussion to about 2 minutes per person; this may leave some time at the end 
+for general discussion. The note-taker should record feedback in the 
+collaborative document.
+5. Trade off roles.
 
 ***
 

@@ -7,6 +7,8 @@ title: "Live coding"
 + Explain the advantages and limitations of participatory live (coding) 
 instruction
 + Summarize the key dos and do nots of participatory live (coding) instruction
++ Demonstrate participatory live (coding) instruction
++ Apply feedback to improve teaching practice
 
 ## Overview
 
@@ -56,15 +58,36 @@ Watch this first participatory live coding demo video:
 demo video: [https://youtu.be/SkPmwe_WjeY](https://youtu.be/SkPmwe_WjeY) and 
 then summarize your feedback on both in the collaborative document. Use the 2x2 
 (positive/negative, content/presentation) rubric for feedback we discussed 
-earlier.
+earlier. In the videos, the instructor is teaching students how to use loops to 
+repeat as task. Note: Sometime sounds in the room can be poor. Turning on 
+closed captioning by pressing the cc button will improve the accessibility of 
+these videos.
 
 ***
 
-In the videos, the instructor is teaching students how to use loops to repeat 
-as task.
+## Round One
 
-Note: Sometime sounds in the room can be poor. Turning on closed captioning by 
-pressing the cc button will improve the accessibility of these videos.
+***
+
+**Exercise**
+
+Now it's your turn for participatory live coding
+
+1. Split into groups of three.
+2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
+3. Have each group member teach 5 minutes of your chosen lesson episode using 
+live coding. For this exercise, your peers will not "code-along." Before you 
+begin, briefly describe what you will be teaching and what has been learned 
+previously.
+4. After each person finishes, each group member should share feedback 
+(starting with themselves) using the same 2x2 rubric as before 
+(positive/negative, content/presentation). The timekeeper should keep feedback 
+discussion to about 2 minutes per person; this may leave some time at the end 
+for general discussion. The note-taker should record feedback in the 
+collaborative document.
+5. Trade off roles.
+
+***
 
 ## Top eight tips for live coding
 
@@ -97,68 +120,6 @@ This becomes easier when you are more familiar with the material, and more
 relaxed. Start small, even just saying 'that was fun' after something worked 
 well or you fixed an error is a good start.
 
-## Summary
-
-***
-
-**Homework**
-
-In the next session you will have opportunities for practicing 
-the hands-on live coding we talked about. Please be prepared to teach a short 
-part (roughly 3-5 minutes) of a hands-on lesson of your choice. This can be the 
-same topic you chose today, or another one. As before, if you do not have 
-materials to teach from, we can provide some lessons from the Carpentries 
-curriculum for you to work with.
-
-***
-
-## Feedback on the day
-
-# BREAK
-
-_below was a separate session; need to figure out how to incorporate into 
-current curriculum_
-
-## Lesson objectives
-
-+ Demonstrate participatory live (coding) instruction
-+ Use feedback to improve instruction
-+ Create a learning objective for your module
-+ Constructively critique a peer learning objective
-+ Identify checkpoints in a lesson for formative assessment
-
-## Overview
-
-This section provides the opportunity to practice live coding, to go through 
-the process of observing and giving feedback, and to make changes to how we 
-teach based on the feedback of others.
-
-## Round One
-
-***
-
-**Exercise**
-
-Now it's your turn for participatory live coding
-
-1. Split into groups of three.
-2. Assign roles, which will rotate: presenter, timekeeper, note-taker.
-3. Have each group member teach 3 minutes of your chosen lesson episode using 
-live coding. For this exercise, your peers will not "code-along." Before you 
-begin, briefly describe what you will be teaching and what has been learned 
-previously.
-4. After each person finishes, each group member should share feedback 
-(starting with themselves) using the same 2x2 rubric as before 
-(positive/negative, content/presentation). The timekeeper should keep feedback 
-discussion to about 1 minute per person; this may leave some time at the end 
-for general discussion. The note-taker should record feedback in the 
-collaborative document.
-5. Trade off roles.
-
-***
-
-**Break here**
-
 ## Round Two
 
 ***
@@ -175,3 +136,5 @@ document: What did you change? Did it work better or worse with the change? How
 might you do it if you were to teach it again?
 
 ***
+
+## Feedback on the day

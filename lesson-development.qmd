@@ -206,10 +206,12 @@ things in the concept map that you missed?
 
 **Homework**
 
-Next time you will have time for writing more assessments for learning 
-objectives. Remember, the list of skills and learning objectives you wrote 
-earlier are not set in stone! For next time, think about how you might revise 
-your objectives based on the peer feedback you received today.
+In the next sessions you will have opportunities for practicing the hands-on 
+live coding we talked about. Please be prepared to teach a short part (roughly 
+3-5 minutes) of a hands-on lesson of your choice. This can be the same topic 
+you chose today, or another one. As before, if you do not have materials to 
+teach from, we can provide some lessons from the Carpentries curriculum for you 
+to work with.
 
 ***
 
