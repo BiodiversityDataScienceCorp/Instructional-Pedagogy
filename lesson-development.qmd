@@ -216,3 +216,5 @@ to work with.
 ***
 
 ## Feedback on the day
+
+Your instructor will ask for you to provide feedback on this session.

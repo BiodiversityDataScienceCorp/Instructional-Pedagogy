@@ -171,3 +171,7 @@ something you _want_ to change, but do not know how, add that to the
 collaborative document. If possible, discuss this as a group.
 
 ***
+
+## Feedback on the day
+
+Your instructor will ask for you to provide feedback on this session.

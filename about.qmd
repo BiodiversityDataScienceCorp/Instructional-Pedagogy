@@ -27,9 +27,22 @@ pedagogy session comes from that
 ## How to use this material
 
 These materials are intended to be taught over a series of sessions, each 
-lasting around two hours, with time for a break at the hour. Lessons are led by 
-an instructor and wherever possible, emphasize interaction and participation. 
-The materials, largely adapted from The Carpentries training curriculum, are 
-primarily designed for online, synchronous delivery, although we have had some 
-success delivering them in hybrid mode. All materials here are licensed under a
+lasting around two hours, with time for a break at the hour (one exception: the 
+first session includes the "Introductions" session, as well as "Building Skill 
+with Practice"). Lessons are led by an instructor and, wherever possible, 
+emphasize interaction and participation. The materials, largely adapted from 
+The Carpentries training curriculum, are primarily designed for online, 
+synchronous delivery, although we have had some success delivering them in 
+hybrid mode. All materials here are licensed under a 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
+### Organization
+
+The first part of the workshop series focuses on developing skill as a trainer, 
+especially in regards to helping students develop skills. These lessons are 
+shown in the "Pedagogy Lessons" tab, in the order in which they are delivered. 
+The second part of the workshop series provided skills development 
+opportunities for a variety of data science tools, mostly focused around the R 
+programming language (or R-adjacent tools). These lessons, found in the "Data 
+Science Lessons" tab, rely on participants having R and RStudio installed on 
+the machines they are using.

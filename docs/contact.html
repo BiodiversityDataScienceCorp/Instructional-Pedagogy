@@ -34,6 +34,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -81,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -136,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html" rel="" target="">
+    <a class="nav-link active" href="./contact.html" rel="" target="" aria-current="page">
  <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -151,37 +152,23 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-  <ul>
-  <li><a href="#instructional-data-science-pedagogy" id="toc-instructional-data-science-pedagogy" class="nav-link active" data-scroll-target="#instructional-data-science-pedagogy">Instructional Data Science Pedagogy</a>
-  <ul class="collapse">
-  <li><a href="#what-is-this-thing" id="toc-what-is-this-thing" class="nav-link" data-scroll-target="#what-is-this-thing">What is this thing?</a></li>
-  </ul></li>
-  </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="index.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
-    </div>
+        
+    <div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="contact.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></div>
 <!-- main -->
-<div class="quarto-about-trestles column-page-left">
-  <div class="about-entity">
-    <img src="images/bdsc-logo-hex.png" class="about-image
-  rectangle " style="width: 20em;">
-  </div>
-  <div class="about-contents"><main class="content column-page-left" id="quarto-document-content">
-
-<section id="instructional-data-science-pedagogy" class="level1">
-<h1>Instructional Data Science Pedagogy</h1>
-<p>This site includes curricular material for the summer workshop series on designing data science modules for undergraduate classrooms. The funding for this work comes from the NSF-funded project “Building Capacity in Data Science through Biodiversity, Conservation, and General Education” (Awards <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122967">2122967</a> and <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2122991">2122991</a>).</p>
-<section id="what-is-this-thing" class="level2">
-<h2 data-anchor-id="what-is-this-thing">What is this thing?</h2>
-<p>If you are new here, check out the <a href="about.html">About</a> page to learn how you can use these materials.</p>
+<main class="content column-page-left" id="quarto-document-content">
 
 
-</section>
-</section>
-</main></div>
-</div>
- <!-- /main -->
+
+<p>If you have questions about any of this material, please reach out to us! We are:</p>
+<ul>
+<li><a href="https://nature.arizona.edu/kathleen-prudic">Katy Prudic</a> (PI)</li>
+<li><a href="https://college.lclark.edu/live/profiles/22-greta-binford">Greta Binford</a> (co-PI)</li>
+<li><a href="https://lib.arizona.edu/people/jeffrey-oliver-phd">Jeff Oliver</a> (co-PI, primary developer of these instructional materials)</li>
+</ul>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -202,6 +189,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

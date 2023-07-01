@@ -1,0 +1,29 @@
+---
+title: "Data Science Lessons"
+---
+
+The second part of the workshop series focused on training sessions on some 
+tools that can be used (or useful for) data science in the classroom. The four 
+lessons are (links will take you to the actual lessons, which are hosted 
+elsewhere):
+
++ [Data visualization with ggplot](https://jcoliver.github.io/learn-r/004-intro-ggplot.html):
+Data visualization is a powerful means of communicating concepts and patterns 
+in data. Getting your visualizations to look _good_ in R can take some work, 
+but the ggplot2 package makes it easier. This lesson introduces how to use 
+ggplot2 package to create publication-quality graphics.
++ [Easier data manipulation with the tidyverse](https://jcoliver.github.io/learn-r/012-intro-tidyverse.html):
+R is a powerful language for managing, analyzing, and visualizing complex data. 
+However, some of the commands in R are esoteric or just plain confusing. The 
+tidyverse package for R includes several helpful functions that make it easier 
+to manipulate, summarize, and visualize your data. In this lesson we’ll use 
+these functions to create plots from summary statistics.
++ [An introduction to RStudio and GitHub](https://jcoliver.github.io/learn-r/010-github.html):
+The Git system is designed to make collaboration easier and more transparent. 
+This lesson provides an introduction to the version control system Git, one 
+central sharing point called GitHub, and how you can use the two in RStudio.
++ [Making web pages with Quarto](https://ucsb-meds.github.io/creating-quarto-websites/): 
+This tutorial, written by [Sam Csik](https://samanthacsik.github.io/), provides 
+an introduction to the Quarto system for making webpages hosted on GitHub. 
+Quarto websites are a (relatively) accessible means of creating and provide 
+content for data science learning goals.

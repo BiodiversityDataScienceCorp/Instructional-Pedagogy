@@ -265,3 +265,5 @@ your teaching practice relating to this point.
 ***
 
 ## Feedback on the day
+
+Your instructor will ask for you to provide feedback on this session.

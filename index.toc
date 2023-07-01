@@ -1,0 +1,3 @@
+\contentsline {section}{\nonumberline Instructional Data Science Pedagogy}{1}{section*.3}%
+\contentsline {subsection}{\nonumberline What is this thing?}{1}{subsection*.5}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

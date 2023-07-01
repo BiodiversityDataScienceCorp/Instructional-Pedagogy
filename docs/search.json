@@ -7,6 +7,13 @@
     "text": "Describe the data science module you intend to develop\nIdentify desired skills to teach\nWrite learning objectives for in-class data science module\nDesign formative assessments to monitor learning progress"
   },
   {
+    "objectID": "lesson-development.html#lesson-objectives",
+    "href": "lesson-development.html#lesson-objectives",
+    "title": "Lesson development",
+    "section": "",
+    "text": "Describe the data science module you intend to develop\nIdentify desired skills to teach\nWrite learning objectives for in-class data science module\nDesign formative assessments to monitor learning progress"
+  },
+  {
     "objectID": "lesson-development.html#overview",
     "href": "lesson-development.html#overview",
     "title": "Lesson development",
@@ -25,7 +32,7 @@
     "href": "lesson-development.html#feedback-on-the-day",
     "title": "Lesson development",
     "section": "Feedback on the day",
-    "text": "Feedback on the day"
+    "text": "Feedback on the day\nYour instructor will ask for you to provide feedback on this session."
   },
   {
     "objectID": "about.html",
@@ -39,11 +46,18 @@
     "href": "about.html#how-to-use-this-material",
     "title": "About",
     "section": "How to use this material",
-    "text": "How to use this material\nThese materials are intended to be taught over a series of sessions, each lasting around two hours, with time for a break at the hour. Lessons are led by an instructor and wherever possible, emphasize interaction and participation. The materials, largely adapted from The Carpentries training curriculum, are primarily designed for online, synchronous delivery, although we have had some success delivering them in hybrid mode. All materials here are licensed under a CC-BY 4.0 license."
+    "text": "How to use this material\nThese materials are intended to be taught over a series of sessions, each lasting around two hours, with time for a break at the hour (one exception: the first session includes the “Introductions” session, as well as “Building Skill with Practice”). Lessons are led by an instructor and, wherever possible, emphasize interaction and participation. The materials, largely adapted from The Carpentries training curriculum, are primarily designed for online, synchronous delivery, although we have had some success delivering them in hybrid mode. All materials here are licensed under a CC-BY 4.0 license.\n\nOrganization\nThe first part of the workshop series focuses on developing skill as a trainer, especially in regards to helping students develop skills. These lessons are shown in the “Pedagogy Lessons” tab, in the order in which they are delivered. The second part of the workshop series provided skills development opportunities for a variety of data science tools, mostly focused around the R programming language (or R-adjacent tools). These lessons, found in the “Data Science Lessons” tab, rely on participants having R and RStudio installed on the machines they are using."
   },
   {
     "objectID": "live-coding.html",
     "href": "live-coding.html",
+    "title": "Live coding",
+    "section": "",
+    "text": "Explain the advantages and limitations of participatory live (coding) instruction\nSummarize the key dos and do nots of participatory live (coding) instruction\nDemonstrate participatory live (coding) instruction\nApply feedback to improve teaching practice"
+  },
+  {
+    "objectID": "live-coding.html#lesson-objectives",
+    "href": "live-coding.html#lesson-objectives",
     "title": "Live coding",
     "section": "",
     "text": "Explain the advantages and limitations of participatory live (coding) instruction\nSummarize the key dos and do nots of participatory live (coding) instruction\nDemonstrate participatory live (coding) instruction\nApply feedback to improve teaching practice"
@@ -63,46 +77,18 @@
     "text": "Why Participatory Live Coding?\nWe talk about the practice of “live coding”. However, you are not live coding in a vacuum. Importantly, students are strongly encouraged to “code-along” with you. We refer to the practice of having the instructor live code and the students code along as “participatory live coding” or, less formally, as “code-along sessions”.\n\nExercise\nList some advantages and challenges of participatory live coding from both a student’s and an instructor’s point of view in the collaborative document or discuss with your group.\n\nLive coding fits well into the model we have been discussing - by providing students with continuous opportunities for practice (every time they type in a line of code) and continuous feedback (their code either works or fails with an error message). It is important to keep in mind, however, that feedback is not helpful if you cannot understand it. Many error messages are obscure and not written with novices in mind. With this in mind, if you are doing live coding and make an error, it is an especially good opportunity to explain to your students how you go about addressing the error. It is totally OK to include Googling for the answer as on of your steps (but maybe not the first step you take).\n\nExercise\nWatch this first participatory live coding demo video: https://youtu.be/bXxBeNkKmJE and this second demo video: https://youtu.be/SkPmwe_WjeY and then summarize your feedback on both in the collaborative document. Use the 2x2 (positive/negative, content/presentation) rubric for feedback we discussed earlier. In the videos, the instructor is teaching students how to use loops to repeat as task. Note: Sometime sounds in the room can be poor. Turning on closed captioning by pressing the cc button will improve the accessibility of these videos."
   },
   {
-    "objectID": "live-coding.html#top-eight-tips-for-live-coding",
-    "href": "live-coding.html#top-eight-tips-for-live-coding",
-    "title": "Live coding",
-    "section": "Top eight tips for live coding",
-    "text": "Top eight tips for live coding\n\nStand up and move around the room if possible. This makes the experience more interactive and less monotonous. Use a microphone if one is available to make it easier for people with hearing difficulties to hear you.\nGo slowly. For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it. Then point to the command and its output on the screen and go through it a second time. This slows you down and allows students to copy what you do, or to catch up. Do not copy-paste code.\nMirror your students’ environment. Try to create an environment that is as similar as possible to what your students have to reduce cognitive load. Avoid using keyboard shortcuts.\nUse your screen wisely. Use a big font, and maximize the window. A black font on a white background works better than a light font on a dark background.\nUse illustrations to help students understand and organize the material. You can also generate the illustrations on the board as you progress through the material. This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching. It helps students understand the material, makes for a more lively workshop and gathers the students’ attention to you as well.\nLeave no student behind. We will talk later in the workshop how sticky notes can be used to gauge students’ progress and understanding.\nEmbrace mistakes. No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do error framing and to help your students learn the art of troubleshooting.\nHave fun! It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying ‘that was fun’ after something worked well or you fixed an error is a good start."
-  },
-  {
-    "objectID": "live-coding.html#summary",
-    "href": "live-coding.html#summary",
-    "title": "Live coding",
-    "section": "Summary",
-    "text": "Summary\n\nHomework\nIn the next session you will have opportunities for practicing the hands-on live coding we talked about. Please be prepared to teach a short part (roughly 3-5 minutes) of a hands-on lesson of your choice. This can be the same topic you chose today, or another one. As before, if you do not have materials to teach from, we can provide some lessons from the Carpentries curriculum for you to work with."
-  },
-  {
-    "objectID": "live-coding.html#feedback-on-the-day",
-    "href": "live-coding.html#feedback-on-the-day",
-    "title": "Live coding",
-    "section": "Feedback on the day",
-    "text": "Feedback on the day"
-  },
-  {
-    "objectID": "live-coding.html#lesson-objectives-1",
-    "href": "live-coding.html#lesson-objectives-1",
-    "title": "Live coding",
-    "section": "Lesson objectives",
-    "text": "Lesson objectives\n\nDemonstrate participatory live (coding) instruction\nUse feedback to improve instruction\nCreate a learning objective for your module\nConstructively critique a peer learning objective\nIdentify checkpoints in a lesson for formative assessment"
-  },
-  {
-    "objectID": "live-coding.html#overview-1",
-    "href": "live-coding.html#overview-1",
-    "title": "Live coding",
-    "section": "Overview",
-    "text": "Overview\nThis section provides the opportunity to practice live coding, to go through the process of observing and giving feedback, and to make changes to how we teach based on the feedback of others."
-  },
-  {
     "objectID": "live-coding.html#round-one",
     "href": "live-coding.html#round-one",
     "title": "Live coding",
     "section": "Round One",
     "text": "Round One\n\nExercise\nNow it’s your turn for participatory live coding\n\nSplit into groups of three.\nAssign roles, which will rotate: presenter, timekeeper, note-taker.\nHave each group member teach 5 minutes of your chosen lesson episode using live coding. For this exercise, your peers will not “code-along.” Before you begin, briefly describe what you will be teaching and what has been learned previously.\nAfter each person finishes, each group member should share feedback (starting with themselves) using the same 2x2 rubric as before (positive/negative, content/presentation). The timekeeper should keep feedback discussion to about 2 minutes per person; this may leave some time at the end for general discussion. The note-taker should record feedback in the collaborative document.\nTrade off roles."
+  },
+  {
+    "objectID": "live-coding.html#top-eight-tips-for-live-coding",
+    "href": "live-coding.html#top-eight-tips-for-live-coding",
+    "title": "Live coding",
+    "section": "Top eight tips for live coding",
+    "text": "Top eight tips for live coding\n\nStand up and move around the room if possible. This makes the experience more interactive and less monotonous. Use a microphone if one is available to make it easier for people with hearing difficulties to hear you.\nGo slowly. For every command you type, every word of code you write, every menu item or website button you click, say out loud what you are doing while you do it. Then point to the command and its output on the screen and go through it a second time. This slows you down and allows students to copy what you do, or to catch up. Do not copy-paste code.\nMirror your students’ environment. Try to create an environment that is as similar as possible to what your students have to reduce cognitive load. Avoid using keyboard shortcuts.\nUse your screen wisely. Use a big font, and maximize the window. A black font on a white background works better than a light font on a dark background.\nUse illustrations to help students understand and organize the material. You can also generate the illustrations on the board as you progress through the material. This allows you to build up diagrams, making them increasingly complex in parallel with the material you are teaching. It helps students understand the material, makes for a more lively workshop and gathers the students’ attention to you as well.\nLeave no student behind. We will talk later in the workshop how sticky notes can be used to gauge students’ progress and understanding.\nEmbrace mistakes. No matter how well prepared you are, you will make mistakes. This is OK! Use these opportunities to do error framing and to help your students learn the art of troubleshooting.\nHave fun! It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying ‘that was fun’ after something worked well or you fixed an error is a good start."
   },
   {
     "objectID": "live-coding.html#round-two",
@@ -112,8 +98,22 @@
     "text": "Round Two\n\nExercise\nReturn to your groups and repeat the previous live coding exercise, re-teaching the same content as before. This time, the presenter should incorporate changes based on feedback received, and everyone should try to “level up” their feedback using the rubric for teaching demos.\nWhen you are finished, add some thoughts on this process to the collaborative document: What did you change? Did it work better or worse with the change? How might you do it if you were to teach it again?"
   },
   {
+    "objectID": "live-coding.html#feedback-on-the-day",
+    "href": "live-coding.html#feedback-on-the-day",
+    "title": "Live coding",
+    "section": "Feedback on the day",
+    "text": "Feedback on the day\nYour instructor will ask for you to provide feedback on this session."
+  },
+  {
     "objectID": "eia.html",
     "href": "eia.html",
+    "title": "Equity, inclusion, & accessibility",
+    "section": "",
+    "text": "Identify instructional strategies that are consistent with universal design\nRecognize systemic factors that can distract and demotivate students"
+  },
+  {
+    "objectID": "eia.html#lesson-objectives",
+    "href": "eia.html#lesson-objectives",
     "title": "Equity, inclusion, & accessibility",
     "section": "",
     "text": "Identify instructional strategies that are consistent with universal design\nRecognize systemic factors that can distract and demotivate students"
@@ -165,11 +165,18 @@
     "href": "eia.html#feedback-on-the-day",
     "title": "Equity, inclusion, & accessibility",
     "section": "Feedback on the day",
-    "text": "Feedback on the day"
+    "text": "Feedback on the day\nYour instructor will ask for you to provide feedback on this session."
   },
   {
     "objectID": "memory-learning.html",
     "href": "memory-learning.html",
+    "title": "Memory & learning",
+    "section": "",
+    "text": "Remember the quantitative limit of human memory\nDistinguish between desirable and undesirable cognitive load\nEvaluate cognitive load associated with a learning task\nCreate a formative assessment that maximizes germane cognitive load\nDescribe strategies for teaching students with very different skill levels"
+  },
+  {
+    "objectID": "memory-learning.html#lesson-objectives",
+    "href": "memory-learning.html#lesson-objectives",
     "title": "Memory & learning",
     "section": "",
     "text": "Remember the quantitative limit of human memory\nDistinguish between desirable and undesirable cognitive load\nEvaluate cognitive load associated with a learning task\nCreate a formative assessment that maximizes germane cognitive load\nDescribe strategies for teaching students with very different skill levels"
@@ -193,7 +200,7 @@
     "href": "memory-learning.html#attention-is-a-limited-resource-cognitive-load",
     "title": "Memory & learning",
     "section": "Attention is a limited resource: Cognitive Load",
-    "text": "Attention is a limited resource: Cognitive Load\nMemory is not the only cognitive resource that is limited. Attention is constrained as well, which can limit the information that enters short term memory in the first place as well as interfere with attempts at consolidation. While many people believe that they can “multi-task,” the reality is that attention can only focus on one thing at a time. Adding items that demand attention adds more things to alternate between attending to, which can reduce efficiency and performance on all of them.\n\nThe Theory of Cognitive Load\nThere are different theories of cognitive load, but for our purposes, we will consider three things that students have in their heads while learning.\n\nThings they have to think about in order to perform a task (“intrinsic”)\nMental effort required to connect the task to new and old information (“germane”)\nDistractions and other mental effort not directly related to performing or learning from the task (“extraneous”)\n\nCognitive load is not always a bad thing! There is plenty of evidence that some difficulty is desirable and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular attention to extraneous load, can help prevent cognitive overload from impeding learning altogether.\nOne way to manage cognitive load as tasks become more complex is by using guided practice: creating a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with feedback at each step before transferring attention to a new feature.\n\n\nAttention management\nThe choices you make as an instructor may add to or subtract from your students’ cognitive load. Supporting memory consolidation can reduce load later on in the class, as it reduces the effort of recalling forgotten material. You can also minimize cognitive load by choosing formative assessments that are narrowly focused and by considering potential distractions in what you display during instruction.\nThere are many different types of exercises that can focus attention narrowly and help to avoid cognitive overload. Carefully targeted multiple choice questions can play this role. A few more that you may wish to consider are:\n\nFaded examples: worked examples with targeted details “faded” out - essentially fill-in-the-blank programming blocks. e.g. students would fill in the blank a for loop in R:\n\n# Print square of i\nfor (i in 1:10) {\n  i_squared <- _______\n  cat(i, \"^2 = \", i_squared)\n}\n\nParson’s Problems: out-of-order code selection & sorting challenges. e.g.  students would rearrange the steps into the correct order for a differential gene expression workflow:\n\nSequence samples\nCount number of reads per gene\nMap sequences to genome\nIdentify differentially expressed genes\nTrim adapters from sequences\n\nLabeling diagrams or flow charts. For example, you could provide the concepts for the for loop in Python example and ask the students to draw lines between concepts and label the relationships.\n\n\n\n\nConcepts of a Python for loop\n\n\nBeware assessments that are too open-ended, as these are very likely to induce cognitive overload in novices. You may have experienced some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novices. Questions that ask students to both remember and synthesize or reason with new information are also risky. If you try out a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach… or you may only need a more narrowly focused question.\n\nExercise\nConsider a topic you teach or might teach in one of your classes and create an assessment like the ones we described above (multiple choice questions, faded examples, Parson’s problems, or diagram labeling). You can build off of the concept map you built previously, or choose a different topic. After creating this assessment, explain how you expect it to reinforce what you taught."
+    "text": "Attention is a limited resource: Cognitive Load\nMemory is not the only cognitive resource that is limited. Attention is constrained as well, which can limit the information that enters short term memory in the first place as well as interfere with attempts at consolidation. While many people believe that they can “multi-task,” the reality is that attention can only focus on one thing at a time. Adding items that demand attention adds more things to alternate between attending to, which can reduce efficiency and performance on all of them.\n\nThe Theory of Cognitive Load\nThere are different theories of cognitive load, but for our purposes, we will consider three things that students have in their heads while learning.\n\nThings they have to think about in order to perform a task (“intrinsic”)\nMental effort required to connect the task to new and old information (“germane”)\nDistractions and other mental effort not directly related to performing or learning from the task (“extraneous”)\n\nCognitive load is not always a bad thing! There is plenty of evidence that some difficulty is desirable and can increase learning. However, there are limits. Managing all forms of cognitive load, with particular attention to extraneous load, can help prevent cognitive overload from impeding learning altogether.\nOne way to manage cognitive load as tasks become more complex is by using guided practice: creating a structure that narrowly guides focus on specific skills and knowledge in a stepped fashion, with feedback at each step before transferring attention to a new feature.\n\n\nAttention management\nThe choices you make as an instructor may add to or subtract from your students’ cognitive load. Supporting memory consolidation can reduce load later on in the class, as it reduces the effort of recalling forgotten material. You can also minimize cognitive load by choosing formative assessments that are narrowly focused and by considering potential distractions in what you display during instruction.\nThere are many different types of exercises that can focus attention narrowly and help to avoid cognitive overload. Carefully targeted multiple choice questions can play this role. A few more that you may wish to consider are:\n\nFaded examples: worked examples with targeted details “faded” out - essentially fill-in-the-blank programming blocks. e.g. students would fill in the blank a for loop in R:\n\n# Print square of i\nfor (i in 1:10) {\n  i_squared &lt;- _______\n  cat(i, \"^2 = \", i_squared)\n}\n\nParson’s Problems: out-of-order code selection & sorting challenges. e.g.  students would rearrange the steps into the correct order for a differential gene expression workflow:\n\nSequence samples\nCount number of reads per gene\nMap sequences to genome\nIdentify differentially expressed genes\nTrim adapters from sequences\n\nLabeling diagrams or flow charts. For example, you could provide the concepts for the for loop in Python example and ask the students to draw lines between concepts and label the relationships.\n\n\n\n\nConcepts of a Python for loop\n\n\nBeware assessments that are too open-ended, as these are very likely to induce cognitive overload in novices. You may have experienced some overload already when you were asked to create a concept map; this is why we do not recommend these as an activity for novices. Questions that ask students to both remember and synthesize or reason with new information are also risky. If you try out a question and get a room filled with silence, you may need an icebreaker, you may need to re-teach… or you may only need a more narrowly focused question.\n\nExercise\nConsider a topic you teach or might teach in one of your classes and create an assessment like the ones we described above (multiple choice questions, faded examples, Parson’s problems, or diagram labeling). You can build off of the concept map you built previously, or choose a different topic. After creating this assessment, explain how you expect it to reinforce what you taught."
   },
   {
     "objectID": "memory-learning.html#managing-a-diverse-classroom",
@@ -212,6 +219,13 @@
   {
     "objectID": "learning-goals.html",
     "href": "learning-goals.html",
+    "title": "Learning goals",
+    "section": "",
+    "text": "Describe the process of reverse instructional design\nExplain the levels of Bloom’s taxonomy\nApply Bloom’s taxonomy to craft learning objectives for lesson\nDescribe strategies for assessing learning goals for just-in-time feedback"
+  },
+  {
+    "objectID": "learning-goals.html#lesson-objectives",
+    "href": "learning-goals.html#lesson-objectives",
     "title": "Learning goals",
     "section": "",
     "text": "Describe the process of reverse instructional design\nExplain the levels of Bloom’s taxonomy\nApply Bloom’s taxonomy to craft learning objectives for lesson\nDescribe strategies for assessing learning goals for just-in-time feedback"
@@ -263,11 +277,32 @@
     "href": "learning-goals.html#feedback-on-the-day",
     "title": "Learning goals",
     "section": "Feedback on the day",
-    "text": "Feedback on the day"
+    "text": "Feedback on the day\nYour instructor will ask for you to provide feedback on this session."
+  },
+  {
+    "objectID": "data-science-lessons.html",
+    "href": "data-science-lessons.html",
+    "title": "Data Science Lessons",
+    "section": "",
+    "text": "The second part of the workshop series focused on training sessions on some tools that can be used (or useful for) data science in the classroom. The four lessons are (links will take you to the actual lessons, which are hosted elsewhere):\n\nData visualization with ggplot: Data visualization is a powerful means of communicating concepts and patterns in data. Getting your visualizations to look good in R can take some work, but the ggplot2 package makes it easier. This lesson introduces how to use ggplot2 package to create publication-quality graphics.\nEasier data manipulation with the tidyverse: R is a powerful language for managing, analyzing, and visualizing complex data. However, some of the commands in R are esoteric or just plain confusing. The tidyverse package for R includes several helpful functions that make it easier to manipulate, summarize, and visualize your data. In this lesson we’ll use these functions to create plots from summary statistics.\nAn introduction to RStudio and GitHub: The Git system is designed to make collaboration easier and more transparent. This lesson provides an introduction to the version control system Git, one central sharing point called GitHub, and how you can use the two in RStudio.\nMaking web pages with Quarto: This tutorial, written by Sam Csik, provides an introduction to the Quarto system for making webpages hosted on GitHub. Quarto websites are a (relatively) accessible means of creating and provide content for data science learning goals."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Instructional Pedagogy",
+    "section": "",
+    "text": "If you have questions about any of this material, please reach out to us! We are:\n\nKaty Prudic (PI)\nGreta Binford (co-PI)\nJeff Oliver (co-PI, primary developer of these instructional materials)"
   },
   {
     "objectID": "motivation-demotivation.html",
     "href": "motivation-demotivation.html",
+    "title": "Motivation & demotivation",
+    "section": "",
+    "text": "Identify authentic tasks and explain why teaching them is important\nDemonstrate strategies for avoiding dismissive language\nDevelop strategies to avoid demotivating students"
+  },
+  {
+    "objectID": "motivation-demotivation.html#lesson-objectives",
+    "href": "motivation-demotivation.html#lesson-objectives",
     "title": "Motivation & demotivation",
     "section": "",
     "text": "Identify authentic tasks and explain why teaching them is important\nDemonstrate strategies for avoiding dismissive language\nDevelop strategies to avoid demotivating students"
@@ -301,8 +336,22 @@
     "text": "Reflection\n\nExercise\nConsidering the actions we discussed to make classes a positive learning environment, what is one thing you could start, stop, or change in your teaching practice to create a more positive learning environment. If there is something you want to change, but do not know how, add that to the collaborative document. If possible, discuss this as a group."
   },
   {
+    "objectID": "motivation-demotivation.html#feedback-on-the-day",
+    "href": "motivation-demotivation.html#feedback-on-the-day",
+    "title": "Motivation & demotivation",
+    "section": "Feedback on the day",
+    "text": "Feedback on the day\nYour instructor will ask for you to provide feedback on this session."
+  },
+  {
     "objectID": "feedback-how-to.html",
     "href": "feedback-how-to.html",
+    "title": "Feeback: How to",
+    "section": "",
+    "text": "Give thoughtful and useful feedback\nIncorporate feedback to improve your instruction"
+  },
+  {
+    "objectID": "feedback-how-to.html#lesson-objectives",
+    "href": "feedback-how-to.html#lesson-objectives",
     "title": "Feeback: How to",
     "section": "",
     "text": "Give thoughtful and useful feedback\nIncorporate feedback to improve your instruction"
@@ -329,8 +378,22 @@
     "text": "Summary\nRemember, teaching is a skill that is learned. If you notice yourself feeling hurt or threatened by the feedback you got, or rejecting it as unfair or wrong, pause and try to consider the feedback from a growth mindset - that through practice and feedback, your skills are going to improve."
   },
   {
+    "objectID": "feedback-how-to.html#feedback-on-the-day",
+    "href": "feedback-how-to.html#feedback-on-the-day",
+    "title": "Feeback: How to",
+    "section": "Feedback on the day",
+    "text": "Feedback on the day\nYour instructor will ask for you to provide feedback on this session."
+  },
+  {
     "objectID": "building-skill.html",
     "href": "building-skill.html",
+    "title": "Building skill with practice",
+    "section": "",
+    "text": "Compare and contrast the three stages of skill acquisition (novice, intermediate, expert)\nApply a concept map to explore a simple mental model\nUnderstand the limitations of knowledge in the absence of a functional mental model\nCreate a formative assessment to diagnose a broken mental model\nApply strategies to meet students where they are"
+  },
+  {
+    "objectID": "building-skill.html#lesson-objectives",
+    "href": "building-skill.html#lesson-objectives",
     "title": "Building skill with practice",
     "section": "",
     "text": "Compare and contrast the three stages of skill acquisition (novice, intermediate, expert)\nApply a concept map to explore a simple mental model\nUnderstand the limitations of knowledge in the absence of a functional mental model\nCreate a formative assessment to diagnose a broken mental model\nApply strategies to meet students where they are"
@@ -401,9 +464,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Instructional Pedagogy",
+    "title": "Instructional Data Science Pedagogy",
     "section": "",
-    "text": "Instructional Data Science Pedagogy\nThis site includes curricular material for the summer workshop series on designing data science modules for undergraduate classrooms. The funding for this work comes from the NSF-funded project “Building Capacity in Data Science through Biodiversity, Conservation, and General Education” (Awards 2122967 and 2122991)."
+    "text": "This site includes curricular material for the summer workshop series on designing data science modules for undergraduate classrooms. The funding for this work comes from the NSF-funded project “Building Capacity in Data Science through Biodiversity, Conservation, and General Education” (Awards 2122967 and 2122991).\n\n\nIf you are new here, check out the About page to learn how you can use these materials."
+  },
+  {
+    "objectID": "index.html#what-is-this-thing",
+    "href": "index.html#what-is-this-thing",
+    "title": "Instructional Data Science Pedagogy",
+    "section": "",
+    "text": "If you are new here, check out the About page to learn how you can use these materials."
   },
   {
     "objectID": "introductions.html",
