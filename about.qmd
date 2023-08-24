@@ -33,7 +33,10 @@ with Practice"). Lessons are led by an instructor and, wherever possible,
 emphasize interaction and participation. The materials, largely adapted from 
 The Carpentries training curriculum, are primarily designed for online, 
 synchronous delivery, although we have had some success delivering them in 
-hybrid mode. All materials here are licensed under a 
+hybrid mode. Many of the activities rely on participants adding content to a 
+"collaborative document" - we use the Google Docs platform for this purpose. 
+An alternative would be something like Etherpads, HackMD, or CodiMD. All 
+materials here are licensed under a 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ### Organization
