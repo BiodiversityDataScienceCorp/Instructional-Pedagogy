@@ -35,7 +35,11 @@ The Carpentries training curriculum, are primarily designed for online,
 synchronous delivery, although we have had some success delivering them in 
 hybrid mode. Many of the activities rely on participants adding content to a 
 "collaborative document" - we use the Google Docs platform for this purpose. 
-An alternative would be something like Etherpads, HackMD, or CodiMD. All 
+An alternative would be something like Etherpads, HackMD, or CodiMD. We also 
+collect brief feedback at the end of each session akin to The Carpentries' 
+[minute cards](https://carpentries.github.io/instructor-training/06-feedback.html#minute-cards). 
+For online delivery, we used the Google Forms platform to collect this 
+feedback; if all participants are in person, sticky notes work well. All 
 materials here are licensed under a 
 [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 

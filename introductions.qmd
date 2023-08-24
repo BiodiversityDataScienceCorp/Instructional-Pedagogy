@@ -56,15 +56,6 @@ description of your motivation for participating in this summer session.
 
 ***
 
-***
-
-**Exercise**
-
-In the collaborative document, provide a brief description of what data science 
-content you are interested in adding or enhancing.
-
-***
-
 ## Expectations
 
 We look to you all to support one another during these sessions. Like your 
