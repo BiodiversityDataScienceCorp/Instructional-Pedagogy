@@ -52,9 +52,9 @@ resources, mentorship, and other avenues towards career success, we should aim
 to make students' experiences _equitable_. This means that, rather than 
 offering the same access and experience to all, we should craft our instruction
 to actively counter-balance unequal opportunities that have led to 
-disproportionate representation of certain groups in data-centric careers. In 
-doing this, we focus on increasing accessibility and acknowledging and, when 
-possible, countering systemic biases.
+disproportionate representation of historically marginalized groups in 
+data-centric careers. In doing this, we focus on increasing accessibility and 
+acknowledging and, when possible, countering systemic biases.
 
 ## Accessibility and universal design
 
@@ -74,7 +74,9 @@ to people with strollers and grocery carts.
 Universal design places responsibility for accessibility on the course designer 
 rather than on the learner. It states that the most inclusive approach to 
 education is to design instruction with diverse students in mind from the 
-beginning.
+beginning. There is a wealth of information on universal design at the 
+[UDL Guidelines](https://udlguidelines.cast.org/) site, which will be the focus
+of a later exercise.
 
 It’s easy to be overwhelmed by all the different ways we could make instruction 
 more accessible. A couple things to remember:
@@ -91,10 +93,31 @@ accessible via an elevator or ramp, etc.
 
 **Exercise**
 
-What is one thing you could do in your classes to improve 
-accessibility? What is one thing you would like to do, but you don't know how 
-or are prevented from doing so by external factors? Add your answers to the 
-collaborative document.
+What is one thing you could do in your classes to improve accessibility? What 
+is one thing you would like to do, but you don't know how or are prevented from 
+doing so by external factors? Add your answers to the collaborative document.
+
+***
+
+The [UDL Guidelines](https://udlguidelines.cast.org/) provides a framework for 
+developing and delivering teaching materials that are inclusive and accessible 
+from the start. We are going to leave it to you to take a deeper dive into the 
+material, but for now we will just look at three of the ways to make the 
+learning experience accessible.
+
+***
+
+**Exercise**
+
+Pick one of the following UDL Guidelines checkpoints:
+
++ [Optimize relevance, value, and authenticity](https://udlguidelines.cast.org/engagement/recruiting-interest/relevance-value-authenticity)
++ [Highlight patterns, critical features, big ideas, and relationships](https://udlguidelines.cast.org/representation/comprehension/patterns-features)
++ [Guide appropriate goal-setting](https://udlguidelines.cast.org/action-expression/executive-functions/goal-setting/goal-setting)
+
+On your own, read the description and bullet point action items for the 
+checkpoint you chose. Pick (at least) one of the bullet points and describe how 
+you could use it in designing or delivering material in your class.
 
 ***
 
@@ -103,12 +126,13 @@ collaborative document.
 As instructors, many aspects of our classroom environment are within our 
 control or influence. However, the world is a complicated place, and there will 
 always be extraneous factors that contribute to demotivation and add to 
-cognitive load. These vary from person to person, but members of certain groups 
-often carry a heavier load due to systemic forces that disproportionately 
-impact them. What we can control, in this case, is our own awareness of the 
-challenges these forces present to teaching and learning. As with other 
-demotivation pitfalls, we can also think carefully about the language that we 
-use and how we interact with our students to avoid reinforcing systemic bias.
+cognitive load. These vary from person to person, but members of historically 
+marginalized groups often carry a heavier load due to systemic forces that 
+disproportionately impact them. What we can control, in this case, is our own 
+awareness of the challenges these forces present to teaching and learning. As 
+with other demotivation pitfalls, we can also think carefully about the 
+language that we use and how we interact with our students to avoid reinforcing 
+systemic bias.
 
 ### Stereotypes
 
@@ -129,7 +153,7 @@ set of characteristics is associated with members of a group. Sterotypes:
 + can facilitate quick judgments in appropriate situations (e.g. stopping a 
   child from driving a car)
 + can lead to systematically negative attitudes and behaviors towards members 
-of certain groups
+of historically marginalized groups
 
 Stereotypes are dangerous when they are explicit, but they are especially 
 hazardous when they are implicit. This means that the people holding them may 
@@ -138,8 +162,9 @@ not be aware of them, even though their perceptions are guided by them.
 When instructors have stereotypes about students, this may lead them to:
 
 + call attention to differences unnecessarily
-+ give more or less attention to certain students
-+ respond to questions differently for certain students
++ give more or less attention to students from historically marginalized groups
++ respond to questions differently for students historically marginalized 
+groups
 
 When students experience stereotypes about themselves, they may:
 
