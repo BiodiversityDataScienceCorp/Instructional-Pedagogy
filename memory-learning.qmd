@@ -16,6 +16,17 @@ In this section, we will be learning more about human memory and how our this
 understanding can help in effective teaching strategies. Specifically, how to 
 remove unnecessary "load" in order to facilitate learning.
 
+## From Last Time
+
+As a reminder, the first few weeks of this workshop series are going to be
+focused on the process of skills development. We consider this from the 
+perspective of the student and identify best practices that we can use as 
+instructors. Much of what we will talk about will have a desired outcome of 
+building capacity and confidence in data and computational skills development, 
+rather than memorizing specific tasks.
+
+## The Limits of Memory
+
 Learning involves memory. For our purposes, human memory can be divided into 
 two different layers. The first is called long-term. It is where we store 
 persistent information like our friends' names and our home address. It is 

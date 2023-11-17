@@ -27,9 +27,11 @@ outcomes.
 
 **Exercise**
 
-Last week we focused on developing skill, the limits of memory, 
-and how learning works. What areas would you like more clarification on? What 
-areas are you excited to apply in your classroom?
+Last week we focused on developing skill, the limits of memory, and how 
+learning works. What areas would you like more clarification on? What areas are 
+you excited to apply in your classroom? Start by discussing this with your 
+group for 10 minutes, then choose a spokesperson who will report back to the 
+larger group.
 
 ***
 
@@ -132,11 +134,11 @@ organization to these data:
 
 **Exercise**
 
-Think about a tool (software or otherwise) that you use or teach 
-often. If you were to write a lesson to train students how to use that tool, 
-what are three learning objectives that would help guide the development of 
-your lesson? Write the tool or analysis and your learning objectives in the 
-collaborative document.
+Think about a tool (software or otherwise) that you use or teach often. If you 
+were to write a lesson to train students how to use that tool, what are three 
+learning objectives that would help guide the development of your lesson? Write 
+the tool or analysis and your learning objectives in the collaborative 
+document.
 
 ***
 
@@ -147,8 +149,12 @@ collaborative document.
 Consider the learning objectives you wrote above and create an assessment like 
 the ones we described previously (multiple choice questions, faded examples, 
 Parson’s problems, or diagram labeling). After creating this assessment, 
-explain how you expect it to reinforce what you taught and/or identify
-misconceptions students may have.
+explain to your group how you expect it to reinforce what you taught and/or 
+identify misconceptions students may have.
+
++ Write an assessment (5 minutes)
++ Explain to your group how it reinforces concepts and/or identifies 
+misconceptions (10 minutes)
 
 ***
 

@@ -104,7 +104,7 @@ development in programming and data tools.
 
 **Exercise**
 
-What are your goals for this training? How would you like to 
-incorporate data science or data literacy into your classroom?
+What are your goals for this training? How would you like to incorporate data 
+science or data literacy into your classroom?
 
 ***
