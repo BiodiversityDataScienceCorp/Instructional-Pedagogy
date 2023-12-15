@@ -17,8 +17,8 @@ website:
          - memory-learning.qmd
          - learning-goals.qmd
          - motivation-demotivation.qmd
-         - eia.qmd
          - lesson-development.qmd
+         - eia.qmd
          - feedback-how-to.qmd
          - live-coding.qmd
       - href: data-science-lessons.qmd

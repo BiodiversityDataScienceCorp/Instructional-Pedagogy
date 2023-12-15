@@ -172,6 +172,18 @@ collaborative document. If possible, discuss this as a group.
 
 ***
 
+***
+**Homework**
+
+In the next session, we will work on laying the foundation for a data science 
+module you could teach in your class. Please be prepared to provide a brief 
+description of the tool, resource, or skill you want to teach your students. 
+This is just a start! You will not be expected to have much other than a 
+general idea of what you want to teach. We will have time in the next session 
+to focus more on the _how_ and the details of _what_.
+
+***
+
 ## Feedback on the day
 
 Your instructor will ask for you to provide feedback on this session.

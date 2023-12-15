@@ -102,6 +102,7 @@ hands-on formative assessments that students can directly relate to should
 allow them to envision how they can start using the skills taught with their 
 own data as soon as the class session is over.
 
+> #### _Aside: keep material close to feedback_
 In much of traditional Western instruction, students are presented with new 
 material during course time and then sent home to practice applying the 
 concepts learned on their own. A major limitation of this approach is that 
@@ -154,7 +155,16 @@ This is the start, and we will have more time to write assessments for your
 learning objectives. Also note that your list of skills and learning objectives 
 can change as you develop your lesson.
 
-### Designing assessments
+***
+
+## Feedback on the day
+
+Your instructor will ask for you to provide feedback on this session.
+
+***
+
+### Extra: Backwards design in assessments
+
 The assessments in a lesson should be a mixture of direct applications and 
 synthesis. A direct application is a straightforward implementation of a 
 concept that students have just been exposed to, while synthesis requires 
@@ -191,30 +201,3 @@ place synchronously (i.e. it could be homework) or during the same class period
 (i.e. group work during the next class).
 
 ***
-
-***
-
-**Exercise**
-
-Based on this overarching assessment, have a neighbor draw a concept map of the
-concepts and connections that are required for this assessment. Are there 
-things in the concept map that you missed?
-
-***
-
-***
-
-**Homework**
-
-In the next sessions you will have opportunities for practicing the hands-on 
-live coding we talked about. Please be prepared to teach a short part (roughly 
-3-5 minutes) of a hands-on lesson of your choice. This can be the same topic 
-you chose today, or another one. As before, if you do not have materials to 
-teach from, we can provide some lessons from the Carpentries curriculum for you 
-to work with.
-
-***
-
-## Feedback on the day
-
-Your instructor will ask for you to provide feedback on this session.

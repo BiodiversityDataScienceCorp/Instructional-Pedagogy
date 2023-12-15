@@ -201,13 +201,13 @@ collaborative document. If possible, discuss this as a group.
 
 **Homework**
 
-Next week you will have multiple opportunities to practice 
-teaching for short stretches and receive feedback on your teaching. Between now 
-and the next session, please pick out something that you would like to teach to 
-your fellow participants. This would ideally be some form of hands-on training 
-for a beginner or intermediate audience. If you do not feel you have something 
-you are comfortable teaching, we can provide some lessons from the Carpentries 
-curriculum for you to work with.
+Next week you will have multiple opportunities to practice teaching for short 
+stretches (roughly 3-5 minutes) and receive feedback on your teaching. Between 
+now and the next session, please pick out something that you would like to 
+teach to your fellow participants. This would ideally be some form of hands-on 
+training for a beginner or intermediate audience. If you do not feel you have 
+something you are comfortable teaching, we can provide some lessons from the 
+Carpentries curriculum for you to work with.
 
 ***
 
