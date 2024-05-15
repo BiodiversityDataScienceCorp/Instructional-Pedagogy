@@ -1,5 +1,11 @@
 ---
 title: "Page not found"
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: false
+    page-layout: full
 ---
 
 The page you are looking for cannot be found. This website has recently been 

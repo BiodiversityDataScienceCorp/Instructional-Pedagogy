@@ -1,5 +1,11 @@
 ---
 title: ""
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: false
+    page-layout: full
 ---
 
 If you have questions about any of this material, please reach out to us! We 

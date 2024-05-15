@@ -1,5 +1,11 @@
 ---
 title: "About"
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+    page-layout: full
 ---
 
 This training is part of the NSF-funded project "Building Capacity in Data 

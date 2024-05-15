@@ -1,5 +1,11 @@
 ---
 title: "Data Science Lessons"
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: false
+    page-layout: full
 ---
 
 The second part of the workshop series focused on training sessions on some 
