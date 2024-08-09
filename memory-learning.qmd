@@ -123,8 +123,14 @@ Add your answer to the collaborative document.
 
 **Exercise**
 
-Given what you have discussed about strategies for memory management, what are 
-the primary _constraints_ to adopting the techniques we have discussed?
+Discuss in your group how you have used (or want to use) formative assessment 
+in the classroom. Specifically, address:
+
++ How can you use formative assessment in a large (lecture-style) class?
++ What other types of formative assessment have you used (we discussed multiple 
+choice questions previously)?
++ What challenges have you faced / do you anticipate in using formative 
+assessments?
 
 ***
 
@@ -275,8 +281,8 @@ strategies, your workshop can be a worthwhile experience for everyone.
 
 In the upcoming sessions, we will be focused on the classroom. We would like 
 you to start thinking about topics you have taught or would like to teach that 
-involve hands-on components to them. We will be using those topics to guide 
-some the next set of exercises.
+involve hands-on components to them. We will be using those topics to guide the 
+next set of exercises.
 
 ***
 

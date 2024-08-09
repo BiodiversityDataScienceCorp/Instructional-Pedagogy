@@ -28,6 +28,12 @@ these functions to create plots from summary statistics.
 The Git system is designed to make collaboration easier and more transparent. 
 This lesson provides an introduction to the version control system Git, one 
 central sharing point called GitHub, and how you can use the two in RStudio.
++ [An introduction to machine learning in R](https://jcoliver.github.io/learn-r/018-ml-regression.html):
+Machine learning has been all the rage, but there remains a lot of mystery 
+about what machine learning really is. In this workshop, we will work through 
+an example of how we use machine learning to make predictions and how to assess 
+how good those predictions really are. The material is designed for people who 
+have little to no experience with machine learning.
 + [Making web pages with Quarto](https://ucsb-meds.github.io/creating-quarto-websites/): 
 This tutorial, written by [Sam Csik](https://samanthacsik.github.io/), provides 
 an introduction to the Quarto system for making webpages hosted on GitHub. 
