@@ -286,6 +286,22 @@ select that choice.
 Consider your concept map and write a multiple choice question to identify 
 points where the mental model represented might be broken.
 
+As an example, consider the final concept map we had for the car, above. To 
+assess students' mental models, we could ask students to complete the following 
+statement:
+
+When the wheels of the car spin faster...
+
+a. ...the car will accelerate (correct)
+b. ...the engine speed must have increased (incorrect, does not recognize the 
+role the transmission plays in regulating the relationship between engine speed 
+and wheel rotation)
+c. ...the transmission must be in a lower gear (incorrect, understanding of 
+gearing is opposite of how the transmission actually works: faster spinning 
+wheels usually means a _higher_ gear)
+d. ...the engine is slowing down (incorrect, a decreasing engine speed would 
+generally result in _decreased_ wheel spin)
+
 ***
 
 You can find more information on designing effective multiple choice questions 
