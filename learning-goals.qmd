@@ -15,11 +15,11 @@ When sitting down to plan a class, I think we have all been in the mindset of
 diving right into reviewing the content, questioning our understanding, and 
 anticipating questions that students might have. While it is good to prepare 
 your content, this approach can take you down extended rabbit-holes in which 
-you anticipate and questions that only an expert (like yourself) would think to 
-ask, and never get around to thinking about how to get your students from one 
-point to the next, and how to know when they've gotten there. In this session,
-we will focus on strategies for designing content to achieve specific learning 
-outcomes.
+you anticipate questions that only an expert (like yourself) would think to 
+ask. In these cases, we may never get around to thinking about how to get our 
+students from one point to the next, and how to know when they've gotten there. 
+In this session, we will focus on strategies for designing content to achieve 
+specific learning outcomes.
 
 ## Reflection
 
@@ -44,10 +44,10 @@ is sometimes also referred to as "backwards design." The order of preparation
 in this case becomes:
 
 1. Determine your learning objectives
-2. Decide what constitutes evidence that objectives have been met, and design 
-assessments to target that evidence
-3. Design instruction: Sort assessments in order of increasing complexity, and 
-write content that connects everything together
+2. Decide what constitutes evidence that objectives have been met
+3. Design assessments to target that evidence
+4. Design instruction by sorting assessments in order of increasing complexity, 
+and write content that connects everything together
 
 ## Working With Learning Objectives
 
@@ -72,7 +72,7 @@ When thinking about learning objectives for our purposes, we are going to focus
 on a fairly atomic level. That is, thinking about objectives for a class 
 session or two. These will necessarily be different from objectives you would 
 write for an entire course. I find it easiest to look at examples of learning 
-objectives. Here are two lists of objectives. The first is from a 
+objectives. Here is a list of learning objectives from a 
 [lesson on data visualization in R](https://datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html).
 
 + Produce scatter plots, boxplots, and time series plots using ggplot.
@@ -94,8 +94,7 @@ Consider the five learning objectives we saw above:
 
 + Produce scatter plots, boxplots, and time series plots using ggplot.
 + Set universal plot settings.
-+ Describe what faceting is and apply faceting in ggplot (ggplot is a package 
-  in R used to create plots).
++ Describe what faceting is and apply faceting in ggplot.
 + Modify the aesthetics of an existing ggplot plot (including axis labels and 
   color).
 + Build complex and customized plots from data in a data frame.
@@ -114,8 +113,8 @@ spreadsheets:
 data
 
 While this understanding _is_ important, it may not be immediately obvious how 
-to tell if a student learned the material. In contrast, specific objectives 
-will be easier to write assessments for:
+to tell if a student learned the material. In contrast, the following specific 
+objectives will be easier to write assessments for:
 
 + Recognize and resolve common spreadsheet formatting problems.
 + Describe the importance of metadata.
