@@ -17,8 +17,8 @@ commonly referred to as "live coding": instructors do not use slides to teach,
 but work through the lesson material, typing in the code or instructions, with 
 the students following along. This section explains how it works, why we use 
 it, and gives general tips for an effective participatory live coding 
-presentation. We will finish this section by practicing ourselves and providing 
-feedback for each other.
+presentation. We will finish this section by practicing live coding and 
+providing feedback for each other.
 
 ## Why Participatory Live Coding?
 
@@ -32,8 +32,8 @@ students code along as "participatory live coding" or, less formally, as
 
 **Exercise**
 
-List some advantages and challenges of participatory live coding 
-from both a student's and an instructor's point of view in the collaborative
+List some advantages and challenges of participatory live coding from both a
+student's and an instructor's point of view in the collaborative
 document or discuss with your group.
 
 ***
@@ -46,8 +46,8 @@ helpful if you cannot understand it. Many error messages are obscure and not
 written with novices in mind. With this in mind, if you are doing live coding 
 and make an error, it is an especially good opportunity to explain to your 
 students _how_ you go about addressing the error. It is totally OK to include 
-Googling for the answer as on of your steps (but maybe not the _first_ step you 
-take).
+Googling for the answer as one of your steps to address the error (but maybe 
+not the _first_ step you take).
 
 ***
 
@@ -55,12 +55,12 @@ take).
 
 Watch this first participatory live coding demo video: 
 [https://youtu.be/bXxBeNkKmJE](https://youtu.be/bXxBeNkKmJE) and this second 
-demo video: [https://youtu.be/SkPmwe_WjeY](https://youtu.be/SkPmwe_WjeY) and 
-then summarize your feedback on both in the collaborative document. Use the 2x2 
-(positive/negative, content/presentation) rubric for feedback we discussed 
+demo video: [https://youtu.be/SkPmwe_WjeY](https://youtu.be/SkPmwe_WjeY). 
+Summarize your feedback on both videos in the collaborative document. Use the 
+2x2 (positive/negative, content/presentation) rubric for feedback we discussed 
 earlier. In the videos, the instructor is teaching students how to use loops to 
-repeat as task. Note: Sometime sounds in the room can be poor. Turning on 
-closed captioning by pressing the cc button will improve the accessibility of 
+repeat a task. Note: Sometime sounds in the room can be poor. Turning on 
+closed captioning by pressing the [cc] button will improve the accessibility of 
 these videos.
 
 ***
@@ -102,16 +102,17 @@ you do, or to catch up. Do not copy-paste code.
 3. Mirror your students' environment. Try to create an environment that is as 
 similar as possible to what your students have to reduce cognitive load. Avoid 
 using keyboard shortcuts.
-4. Use your screen wisely. Use a big font, and maximize the window. A black font 
-on a white background works better than a light font on a dark background. 
+4. Use your screen wisely. Use a big font, and maximize the window. A black 
+font on a white background usually works better than a light font on a dark
+background. 
 5. Use illustrations to help students understand and organize the material. You 
 can also generate the illustrations on the board as you progress through the 
 material. This allows you to build up diagrams, making them increasingly 
 complex in parallel with the material you are teaching. It helps students 
 understand the material, makes for a more lively workshop and gathers the 
 students' attention to you as well.
-6. Leave no student behind. We will talk later in the workshop how sticky notes 
-can be used to gauge students' progress and understanding.
+6. Leave no student behind. We will talk later in the workshop about strategies 
+that can be used to gauge students' progress and understanding.
 7. Embrace mistakes. No matter how well prepared you are, you will make 
 mistakes. This is OK! Use these opportunities to do error framing and to help 
 your students learn the art of troubleshooting.
@@ -126,10 +127,10 @@ well or you fixed an error is a good start.
 
 **Exercise**
 
-Return to your groups and repeat the previous live coding 
-exercise, re-teaching the same content as before. This time, the presenter 
-should incorporate changes based on feedback received, and everyone should 
-try to "level up" their feedback using the rubric for teaching demos.
+Return to your groups and repeat the previous live-coding exercise, re-teaching
+the same content as before. This time, the presenter should incorporate changes
+based on feedback received, and everyone should try to "level up" their 
+feedback.
 
 When you are finished, add some thoughts on this process to the collaborative 
 document: What did you change? Did it work better or worse with the change? How 
